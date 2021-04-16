@@ -1,0 +1,107 @@
+<link rel="stylesheet" media="screen" href = "{{ url_for('static', filename='bootstrap.min.css') }}"/>
+<meta name="viewport" content = "width=device-width, initial-scale=1.0"/>
+<head>
+	<link rel="stylesheet" href="/static/styles.css"/>
+	<title>DogForU</title>
+</head>
+
+<body>
+	<h6><a name="top"></a></h6>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="navs">
+	<h6> <a class="navbar-brand" href="/">DogForU</a></h6>
+    <div class="dropdown">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+	    	<span class="navbar-toggler-icon"></span>
+    	</button>
+    	<div class="dropdown-content">
+    		<ul class="navbar-nav mr-auto">
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/dogfinder">Find A Dog</a></h6>
+		      </li>
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/adopt">Adopt</a></h6>
+		      </li>
+		      <li class="nav-item">
+		       <h6> <a class="nav-link" href="/dogs">Popular Dogs</a></h6>
+		      </li>
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/alldogs">All Dogs</a></h6>
+		      </li>
+		      <li class="nav-item">
+	        	<h6><a class="nav-link" href="/about">About</a></h6>
+	      	  </li>
+		    </ul>
+    	</div>
+	</div>
+
+
+	  <div class="collapse navbar-collapse" id="navbarColor01">
+	    <ul class="navbar-nav mr-auto">
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/dogfinder">Find A Dog</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/adopt">Adopt</a></h6>
+	      </li>
+	      <li class="nav-item">
+	       <h6> <a class="nav-link" href="/dogs">Popular Dogs</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/alldogs">All Dogs</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/about">About</a></h6>
+	      </li>
+	    </ul>
+	    <form method = "POST" class="form-inline my-2 my-lg-0">
+	      <input name = "search" class="form-control mr-sm-2" type="text" placeholder="Enter Breed...">
+	      <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+	    </form>
+	  </div>
+	</nav>
+	<div style="padding-left: 30px; padding-top: 30px;">
+		<h3 style="padding-left: 250px;">Here is your dog</h3>
+		<h6>																																											</h6>
+		<div class="imcontainer">
+			<img src={{ dogimage }} style="width:690px;">
+			<p style="font-size: 20px;">{{ dogbreed }}</p>
+		</div>
+		<h6>																																											</h6>
+		<div class="formating2">
+			<div class="dimcontainer">
+				<br>
+				<br>
+				<p style="font-size: 20px;">Bred for {{ dogfor }}</p>
+				<br>
+				<p style="font-size: 20px;">Life Span {{ doglife }}</p>
+			</div>
+			<div class="dimcontainer1">
+				<p style="font-size: 20px;">Temperament:</p>
+				{% for i in dogtemperament %}
+				<p style="font-size: 15px;">{{ i }}</p>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+	<div class="formating1">
+		<h3 style="padding-left: 100px; padding-top: 40px;">Similar Dogs</h3>
+		<div class="sdogs">
+			{% for i, x in dogresults.items() %}
+				<div class="container3">
+					<img src={{ x }} style="width:340px;"> 
+					<a href="/doginfo/{{ i }}">{{ i }}</a>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</body>
