@@ -1,0 +1,74 @@
+<link rel="stylesheet" media="screen" href = "{{ url_for('static', filename='bootstrap.min.css') }}"/>
+<meta name="viewport" content = "width=device-width, initial-scale=1.0"/>
+<head>
+	<link rel="stylesheet" href="/static/styles.css"/>
+	<title>DogForU</title>
+</head>
+
+<body>
+	<h6><a name="top"></a></h6>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="navs">
+	<h6><a class="navbar-brand" href="/">DogForU</a></h6>
+    <div class="dropdown">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+	    	<span class="navbar-toggler-icon"></span>
+    	</button>
+    	<div class="dropdown-content">
+    		<ul class="navbar-nav mr-auto">
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/dogfinder">Find A Dog</a></h6>
+		      </li>
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/adopt">Adopt</a></h6>
+		      </li>
+		      <li class="nav-item">
+		       <h6> <a class="nav-link" href="/dogs">Popular Dogs</a></h6>
+		      </li>
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/alldogs">All Dogs</a></h6>
+		      </li>
+		      <li class="nav-item">
+	        	<h6><a class="nav-link" href="/about">About</a></h6>
+	      	  </li>
+		    </ul>
+    	</div>
+	</div>
+
+
+	  <div class="collapse navbar-collapse" id="navbarColor01">
+	    <ul class="navbar-nav mr-auto">
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/dogfinder">Find A Dog</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/adopt">Adopt</a></h6>
+	      </li>
+	      <li class="nav-item">
+	       <h6> <a class="nav-link" href="/dogs">Popular Dogs</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/alldogs">All Dogs</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/about">About</a></h6>
+	      </li>
+	    </ul>
+	    <form method = "POST" class="form-inline my-2 my-lg-0">
+	      <input name = "search" class="form-control mr-sm-2" type="text" placeholder="Enter Breed...">
+	      <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+	    </form>
+	  </div>
+	</nav>
+<div style="padding-left: 550px; padding: 50px;">
+	<h3>About DogForU</h3>
+</div>
+<div style="padding-left: 50px;">
+<p>DOGFORU was built by a 13-year-old boy from Toronto. He has a great love for dogs and pets in general. His mission is to help you find a dog based on your needs. You can also access information about nearby animal shelters and adoption organizations in the U.S. and Canada. DOGFORU has over 260 different dog breeds for you to explore and has a lot of useful information about each dog, such as what it is bred for, its temperament and its life-span.</p>
+<br>
+<h5>Disclaimer</h5>
+<br>
+<p>No information on DOGFORU is guaranteed. Although the information on DOGFORU is updated frequently, it is always best to call the adoption organization to ensure the information is accurate. It is important to have a veterinarian examine the dog immediately upon adoption. Any dogs found, adopted through, or listed in DOGFORU are the sole responsibility of the adoption organizations and/or the adopting party.
+DOGFORU accepts no responsibility for any liability or for any injury or damages to any person or property caused by any listed dog, as well as any cause of action, claims, suits or demands whatsoever that may arise as a result of such injury or damage.
+</p>
+</div>
+</body>
