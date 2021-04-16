@@ -1,0 +1,95 @@
+<link rel="stylesheet" media="screen" href = "{{ url_for('static', filename='bootstrap.min.css') }}"/>
+<meta name="viewport" content = "width=device-width, initial-scale=1.0"/>
+<head>
+	<link rel="stylesheet" href="/static/styles.css"/>
+	<title>DogForU</title>
+</head>
+
+<body>
+	<h6><a name="top"></a></h6>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="navs">
+	<h6><a class="navbar-brand" href="/">DogForU</a></h6>
+    <div class="dropdown">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+	    	<span class="navbar-toggler-icon"></span>
+    	</button>
+    	<div class="dropdown-content">
+    		<ul class="navbar-nav mr-auto">
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a></h6>
+		      </li>
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/dogfinder">Find A Dog</a></h6>
+		      </li>
+		      <li class="nav-item">
+		       <h6> <a class="nav-link" href="/dogs">Popular Dogs</a></h6>
+		      </li>
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/alldogs">All Dogs</a></h6>
+		      </li>
+		      <li class="nav-item">
+	        	<h6><a class="nav-link" href="/adopt">Adopt</a></h6>
+	      	  </li>
+		    </ul>
+    	</div>
+	</div>
+
+
+	  <div class="collapse navbar-collapse" id="navbarColor01">
+	    <ul class="navbar-nav mr-auto">
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/dogfinder">Find A Dog</a></h6>
+	      </li>
+	      <li class="nav-item">
+	       <h6> <a class="nav-link" href="/dogs">Popular Dogs</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/alldogs">All Dogs</a></h6>
+	      </li>
+	       <li class="nav-item">
+	        <h6><a class="nav-link" href="/adopt">Adopt</a></h6>
+	      </li>
+	    </ul>
+	    <form method = "POST" class="form-inline my-2 my-lg-0">
+	      <input name = "search" class="form-control mr-sm-2" type="text" placeholder="Enter Breed...">
+	      <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+	    </form>
+	  </div>
+	</nav>
+{% if country == 0 %}
+<div id = "main-text">
+	<h3>There is no information available for you area</h3>
+</div>
+{% endif %}
+<div id = "main-text">
+	<h3> Nearby Organizations</h3>
+</div>
+<div style="width:80%; padding-left: 250px;">
+	<table class="table table-hover">
+		<thead>
+			<tr>
+				<th scope="col"><b>Name</b></th>
+				<th scope="col"><b>Location</b></th>
+				<th scope="col"><b>Contact</b></th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for i in organizations['organizations'] %}
+			<tr class="table-dark">
+				<th scope="row">{{ i['name'] }}</th>
+				<td>{{ i['address']['city'] }}</td>
+				{% if i['website'] == None %}
+				<td>{{ i['phone'] }}</td>
+				{% endif %}
+				{% if i['website'] != None %}
+				<td><a href="{{ i['website'] }}">{{ i['website'] }}</a></td>
+				{% endif %}
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</div>
+</body>
