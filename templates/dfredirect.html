@@ -1,0 +1,77 @@
+<link rel="stylesheet" media="screen" href = "{{ url_for('static', filename='bootstrap.min.css') }}"/>
+<meta name="viewport" content = "width=device-width, initial-scale=1.0"/>
+<head>
+	<link rel="stylesheet" href="/static/styles.css"/>
+	<title>DogForU</title>
+</head>
+
+<body>
+	<h6><a name="top"></a></h6>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="navs">
+	<h6><a class="navbar-brand" href="/">DogForU</a></h6>
+	<div class="dropdown">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+	    	<span class="navbar-toggler-icon"></span>
+    	</button>
+    	<div class="dropdown-content">
+    		<ul class="navbar-nav mr-auto">
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/dogfinder">Find A Dog</a></h6>
+		      </li>
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/adopt">Adopt</a></h6>
+		      </li>
+		      <li class="nav-item">
+		       <h6> <a class="nav-link" href="/dogs">Popular Dogs</a></h6>
+		      </li>
+		      <li class="nav-item">
+		        <h6><a class="nav-link" href="/alldogs">All Dogs</a></h6>
+		      </li>
+		      <li class="nav-item">
+	        	<h6><a class="nav-link" href="/about">About</a></h6>
+	      	  </li>
+		    </ul>
+    	</div>
+	</div>
+
+
+	  <div class="collapse navbar-collapse" id="navbarColor01">
+	    <ul class="navbar-nav mr-auto">
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/dogfinder">Find A Dog</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/adopt">Adopt</a></h6>
+	      </li>
+	      <li class="nav-item">
+	       <h6> <a class="nav-link" href="/dogs">Popular Dogs</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/alldogs">All Dogs</a></h6>
+	      </li>
+	      <li class="nav-item">
+	        <h6><a class="nav-link" href="/about">About</a></h6>
+	      </li>
+	    </ul>
+	  </div>
+	</nav>
+	<form action="/dogfinder" name="checkboxes" method="POST" class="dfcheckboxes">
+		{% for i in temperaments %}
+		<label class="container1">{{ i }}
+		  <input type="checkbox" value="{{ i }}" name="tcb[]">
+		  <span class="checkmark"></span>
+		</label>
+		{% endfor %}
+		<h6 style="border-bottom: 1px solid; color: Gainsboro;"></h6>
+    	{% for i in dogfor %}
+		<label class="container1">{{ i }}
+		  <input type="checkbox" value="{{ i }}" name="fcb[]">
+		  <span class="checkmark"></span>
+		</label>
+		{% endfor %}
+		<div id="submit">
+			<input class="btn btn-success" type="submit" value="Submit">
+		</div>
+	</form>
+	<h3 style="padding-left: 475px; padding-top: 100px;">There were no dogs available!</h3>
+</body>
