@@ -77,4 +77,11 @@ DogForU/
 
 ## Deploying
 
-The app was originally hosted on [PythonAnywhere](https://www.pythonanywhere.com/). Its default WSGI file imports `flask_app`, and that still works. Set the same environment variables from `.env.example` in your host's settings.
+The app was originally deployed on AWS. To deploy it anywhere that runs Python web apps, point your host's WSGI server at `flask_app:app`, for example:
+
+```bash
+pip install gunicorn
+gunicorn flask_app:app --bind 0.0.0.0:8000
+```
+
+Set the same environment variables from `.env.example` in your host's settings.

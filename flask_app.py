@@ -242,7 +242,7 @@ def adopt():
     return render_template("adopt.html", organizations=organizations, country=country)
 
 
-# PythonAnywhere's default WSGI config imports `flask_app`; keep that name working.
+# Keep the original module-level names working for existing deployment configs.
 flask_app = DogForU = app
 
 if __name__ == "__main__":
