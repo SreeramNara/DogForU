@@ -63,7 +63,7 @@
 		<h3 style="padding-left: 250px;">Here is your dog</h3>
 		<h6>																																											</h6>
 		<div class="imcontainer">
-			<img src={{ dogimage }} style="width:690px;">
+			<img src="{{ dogimage }}" style="width:690px;">
 			<p style="font-size: 20px;">{{ dogbreed }}</p>
 		</div>
 		<h6>																																											</h6>
@@ -88,7 +88,7 @@
 		<div class="sdogs">
 			{% for i, x in dogresults.items() %}
 				<div class="container3">
-					<img src={{ x }} style="width:340px;"> 
+					<img src="{{ x }}" style="width:340px;"> 
 					<a href="/doginfo/{{ i }}">{{ i }}</a>
 				</div>
 			{% endfor %}

@@ -1,0 +1,3402 @@
+{
+  "Affenpinscher": {
+    "temperament": [
+      "Stubborn",
+      "Curious",
+      "Playful",
+      "Adventurous",
+      "Active",
+      "Fun-loving"
+    ],
+    "bred_for": "Small rodent hunting, Lapdog",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/hd1iiHXjK.jpg"
+  },
+  "Afghan Hound": {
+    "temperament": [
+      "Aloof",
+      "Clownish",
+      "Dignified",
+      "Independent",
+      "Happy"
+    ],
+    "bred_for": "Coursing and hunting",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/12nMI642l.jpg"
+  },
+  "African Hunting Dog": {
+    "temperament": [
+      "Wild",
+      "Hardworking",
+      "Dutiful"
+    ],
+    "bred_for": "A wild pack animal",
+    "life_span": "11 years",
+    "image": "https://cdn2.thedogapi.com/images/y2G5sMFrS.jpg"
+  },
+  "Airedale Terrier": {
+    "temperament": [
+      "Outgoing",
+      "Friendly",
+      "Alert",
+      "Confident",
+      "Intelligent",
+      "Courageous"
+    ],
+    "bred_for": "Badger, otter hunting",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/dcFcTU2vY.jpg"
+  },
+  "Akbash Dog": {
+    "temperament": [
+      "Loyal",
+      "Independent",
+      "Intelligent",
+      "Brave"
+    ],
+    "bred_for": "Sheep guarding",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/QIZB_XEt5.jpg"
+  },
+  "Akita": {
+    "temperament": [
+      "Docile",
+      "Alert",
+      "Responsive",
+      "Dignified",
+      "Composed",
+      "Friendly",
+      "Receptive",
+      "Faithful",
+      "Courageous"
+    ],
+    "bred_for": "Hunting bears",
+    "life_span": "10 - 14 years",
+    "image": "https://vetstreet-brightspot.s3.amazonaws.com/f4/1ad7b0a40011e087a80050568d634f/file/Akita-4-645mk062111.jpg"
+  },
+  "Alapaha Blue Blood Bulldog": {
+    "temperament": [
+      "Loving",
+      "Protective",
+      "Trainable",
+      "Dutiful",
+      "Responsible"
+    ],
+    "bred_for": "Guarding",
+    "life_span": "12 - 13 years",
+    "image": "/static/breeds/alapaha-blue-blood-bulldog.jpg"
+  },
+  "Alaskan Husky": {
+    "temperament": [
+      "Friendly",
+      "Energetic",
+      "Loyal",
+      "Gentle",
+      "Confident"
+    ],
+    "bred_for": "Sled pulling",
+    "life_span": "10 - 13 years",
+    "image": "https://www.ruffhero.com/wp-content/uploads/2019/10/Alaskan-Husky-dog.jpg"
+  },
+  "Alaskan Malamute": {
+    "temperament": [
+      "Friendly",
+      "Affectionate",
+      "Devoted",
+      "Loyal",
+      "Dignified",
+      "Playful"
+    ],
+    "bred_for": "Hauling heavy freight, Sled pulling",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/BIZiWPLqX.jpg"
+  },
+  "American Bulldog": {
+    "temperament": [
+      "Friendly",
+      "Assertive",
+      "Energetic",
+      "Loyal",
+      "Gentle",
+      "Confident",
+      "Dominant"
+    ],
+    "bred_for": "For chasing down stray cattle and helping out with work on the farm",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/iIgf9U3bv.jpg"
+  },
+  "American Bully": {
+    "temperament": [
+      "Strong Willed",
+      "Stubborn",
+      "Friendly",
+      "Clownish",
+      "Affectionate",
+      "Loyal",
+      "Obedient",
+      "Intelligent",
+      "Courageous"
+    ],
+    "bred_for": "Family companion dog",
+    "life_span": "8 – 15 years",
+    "image": "https://cdn2.thedogapi.com/images/kRw7OfClb.jpg"
+  },
+  "American Eskimo Dog": {
+    "temperament": [
+      "Friendly",
+      "Alert",
+      "Reserved",
+      "Intelligent",
+      "Protective"
+    ],
+    "bred_for": "Circus performer",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/FXigpiT_A.jpg"
+  },
+  "American Eskimo Dog (Miniature)": {
+    "temperament": [
+      "Friendly",
+      "Alert",
+      "Reserved",
+      "Intelligent",
+      "Protective"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "13 – 15 years",
+    "image": "https://cdn2.thedogapi.com/images/wPIaaiYOy.jpg"
+  },
+  "American Foxhound": {
+    "temperament": [
+      "Kind",
+      "Sweet-Tempered",
+      "Loyal",
+      "Independent",
+      "Intelligent",
+      "Loving"
+    ],
+    "bred_for": "Fox hunting, scent hound",
+    "life_span": "8 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/2xUswk2y8.jpg"
+  },
+  "American Pit Bull Terrier": {
+    "temperament": [
+      "Strong Willed",
+      "Stubborn",
+      "Friendly",
+      "Clownish",
+      "Affectionate",
+      "Loyal",
+      "Obedient",
+      "Intelligent",
+      "Courageous"
+    ],
+    "bred_for": "Fighting",
+    "life_span": "10 - 15 years",
+    "image": "https://i.ytimg.com/vi/rrP6Q89qAPE/maxresdefault.jpg"
+  },
+  "American Staffordshire Terrier": {
+    "temperament": [
+      "Tenacious",
+      "Friendly",
+      "Devoted",
+      "Loyal",
+      "Attentive",
+      "Courageous"
+    ],
+    "bred_for": "Hunting, Watchdog",
+    "life_span": "12 - 15 years",
+    "image": "https://www.mascotarios.org/wp-content/uploads/2011/04/AmericanStaffordshireTerrier.jpg"
+  },
+  "American Water Spaniel": {
+    "temperament": [
+      "Friendly",
+      "Energetic",
+      "Obedient",
+      "Intelligent",
+      "Protective",
+      "Trainable"
+    ],
+    "bred_for": "Bird flushing and retrieving",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/SkmRJl9VQ_1280.jpg"
+  },
+  "Anatolian Shepherd Dog": {
+    "temperament": [
+      "Steady",
+      "Bold",
+      "Independent",
+      "Confident",
+      "Intelligent",
+      "Proud"
+    ],
+    "bred_for": "Livestock herding",
+    "life_span": "11 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/BJT0Jx5Nm_1280.jpg"
+  },
+  "Appenzeller Sennenhund": {
+    "temperament": [
+      "Reliable",
+      "Fearless",
+      "Energetic",
+      "Lively",
+      "Self-assured"
+    ],
+    "bred_for": "Herding livestock, pulling carts, and guarding the farm",
+    "life_span": "12 – 14 years",
+    "image": "/static/breeds/appenzeller-sennenhund.jpg"
+  },
+  "Aussiedoodle": {
+    "temperament": [
+      "Intelligent",
+      "Playful",
+      "Affectionate",
+      "Friendly"
+    ],
+    "bred_for": "Companion Dogs",
+    "life_span": "10 - 12 years",
+    "image": "https://i.ytimg.com/vi/fTz83GCY6io/maxresdefault.jpg"
+  },
+  "Australian Cattle Dog": {
+    "temperament": [
+      "Cautious",
+      "Energetic",
+      "Loyal",
+      "Obedient",
+      "Protective",
+      "Brave"
+    ],
+    "bred_for": "Cattle herding, herding trials",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/australian-cattle-dog.jpg"
+  },
+  "Australian Kelpie": {
+    "temperament": [
+      "Friendly",
+      "Energetic",
+      "Alert",
+      "Loyal",
+      "Intelligent",
+      "Eager"
+    ],
+    "bred_for": "Farm dog, Cattle herding",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/Hyq1ge9VQ_1280.jpg"
+  },
+  "Australian Shepherd": {
+    "temperament": [
+      "Good-natured",
+      "Affectionate",
+      "Intelligent",
+      "Active",
+      "Protective"
+    ],
+    "bred_for": "Sheep herding",
+    "life_span": "12 - 16 years",
+    "image": "https://cdn2.thedogapi.com/images/B1-llgq4m_1280.jpg"
+  },
+  "Australian Terrier": {
+    "temperament": [
+      "Spirited",
+      "Alert",
+      "Loyal",
+      "Companionable",
+      "Even Tempered",
+      "Courageous"
+    ],
+    "bred_for": "Cattle herdering, hunting snakes and rodents",
+    "life_span": "15 years",
+    "image": "https://www.thesprucepets.com/thmb/MalFT1CFyNi2smBdqH-sRQCESzA=/2333x2333/smart/filters:no_upscale()/CaptureLight-5ee86ab393c84496ae3050d4f875fbb4.jpg"
+  },
+  "Azawakh": {
+    "temperament": [
+      "Aloof",
+      "Affectionate",
+      "Attentive",
+      "Rugged",
+      "Fierce",
+      "Refined"
+    ],
+    "bred_for": "Livestock guardian, hunting",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/SkvZgx94m_1280.jpg"
+  },
+  "Barbet": {
+    "temperament": [
+      "Obedient",
+      "Companionable",
+      "Intelligent",
+      "Joyful"
+    ],
+    "bred_for": "Hunting water game",
+    "life_span": "13 – 15 years",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11112812/Barbet-standing-in-the-snow.jpg"
+  },
+  "Bassador": {
+    "temperament": [
+      "Friendly",
+      "Active",
+      "Energetic",
+      "Companionable"
+    ],
+    "bred_for": "Hunting",
+    "life_span": "10 - 12 years",
+    "image": "https://doggiedesigner.com/wp-content/uploads/2019/06/Fred_the_Bassador.jpg"
+  },
+  "Basenji": {
+    "temperament": [
+      "Affectionate",
+      "Energetic",
+      "Alert",
+      "Curious",
+      "Playful",
+      "Intelligent"
+    ],
+    "bred_for": "Hunting",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/H1dGlxqNQ_1280.jpg"
+  },
+  "Basset Bleu de Gascogne": {
+    "temperament": [
+      "Affectionate",
+      "Lively",
+      "Agile",
+      "Curious",
+      "Happy",
+      "Active"
+    ],
+    "bred_for": "Hunting on foot.",
+    "life_span": "10 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/BkMQll94X_1280.jpg"
+  },
+  "Basset Hound": {
+    "temperament": [
+      "Tenacious",
+      "Friendly",
+      "Affectionate",
+      "Devoted",
+      "Sweet-Tempered",
+      "Gentle"
+    ],
+    "bred_for": "Hunting by scent",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/Sy57xx9EX_1280.jpg"
+  },
+  "Beagle": {
+    "temperament": [
+      "Amiable",
+      "Even Tempered",
+      "Excitable",
+      "Determined",
+      "Gentle",
+      "Intelligent"
+    ],
+    "bred_for": "Rabbit, hare hunting",
+    "life_span": "13 - 16 years",
+    "image": "https://cdn2.thedogapi.com/images/Syd4xxqEm_1280.jpg"
+  },
+  "Bearded Collie": {
+    "temperament": [
+      "Self-confidence",
+      "Hardy",
+      "Lively",
+      "Alert",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Sheep herding",
+    "life_span": "12 - 14 years",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rough_Collie_600.jpg"
+  },
+  "Beauceron": {
+    "temperament": [
+      "Fearless",
+      "Friendly",
+      "Intelligent",
+      "Protective",
+      "Calm"
+    ],
+    "bred_for": "Boar herding, hunting, guarding",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/HJQ8ge5V7_1280.jpg"
+  },
+  "Bedlington Terrier": {
+    "temperament": [
+      "Affectionate",
+      "Spirited",
+      "Intelligent",
+      "Good-tempered"
+    ],
+    "bred_for": "Killing rat, Badger, other vermin",
+    "life_span": "14 - 16 years",
+    "image": "https://cdn2.thedogapi.com/images/ByK8gx947_1280.jpg"
+  },
+  "Belgian Laekenois": {
+    "temperament": [
+      "Energetic",
+      "Lively",
+      "Alert",
+      "Active",
+      "Protective",
+      "Watchful"
+    ],
+    "bred_for": "Herding sheep at the Royal Castle of Laeken, Guarding linen that is placed in fields to dry, Messenger Dog.",
+    "life_span": "10 - 12 years",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/06/30155954/Belgian-Laekenois-standing-in-a-field.20200625222043139.jpg"
+  },
+  "Belgian Malinois": {
+    "temperament": [
+      "Watchful",
+      "Alert",
+      "Stubborn",
+      "Friendly",
+      "Confident",
+      "Hard-working",
+      "Active",
+      "Protective"
+    ],
+    "bred_for": "Stock herding",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/r1f_ll5VX_1280.jpg"
+  },
+  "Belgian Sheepdog": {
+    "temperament": [
+      "Affectionate",
+      "Loyal",
+      "Intelligent",
+      "Dominant",
+      "Active",
+      "Powerful"
+    ],
+    "bred_for": "Stock herding",
+    "life_span": "12 - 14 years",
+    "image": "https://vetstreet.brightspotcdn.com/dims4/default/bc05a1c/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F41%2Fffca80a67211e087a80050568d634f%2Ffile%2FBelgian-Sheepdog-1-645mk062311.jpg"
+  },
+  "Belgian Tervuren": {
+    "temperament": [
+      "Energetic",
+      "Alert",
+      "Loyal",
+      "Intelligent",
+      "Attentive",
+      "Protective"
+    ],
+    "bred_for": "Guarding, Drafting, Police work.",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/B1KdxlcNX_1280.jpg"
+  },
+  "Bergamasco": {
+    "temperament": [
+      "Patient",
+      "Determined",
+      "Intelligent",
+      "Vigilant"
+    ],
+    "bred_for": "Herding sheep & cattle without supervision.",
+    "life_span": "13 - 15 years",
+    "image": "/static/breeds/bergamasco.jpg"
+  },
+  "Berger Picard": {
+    "temperament": [
+      "Stubborn",
+      "Assertive",
+      "Energetic",
+      "Lively",
+      "Intelligent",
+      "Mellow"
+    ],
+    "bred_for": "Herding sheep & cattle in the Picardie region of France.",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/berger-picard.jpg"
+  },
+  "Bernese Mountain Dog": {
+    "temperament": [
+      "Affectionate",
+      "Loyal",
+      "Intelligent",
+      "Faithful"
+    ],
+    "bred_for": "Draft work",
+    "life_span": "7 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/S1fFlx5Em_1280.jpg"
+  },
+  "Bichon Frise": {
+    "temperament": [
+      "Feisty",
+      "Affectionate",
+      "Cheerful",
+      "Playful",
+      "Gentle",
+      "Sensitive"
+    ],
+    "bred_for": "Companion",
+    "life_span": "15 years",
+    "image": "https://cdn2.thedogapi.com/images/HkuYlxqEQ_1280.jpg"
+  },
+  "Black and Tan Coonhound": {
+    "temperament": [
+      "Easygoing",
+      "Gentle",
+      "Adaptable",
+      "Trusting",
+      "Even Tempered",
+      "Lovable"
+    ],
+    "bred_for": "Hunting raccoons, night hunting",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/HJAFgxcNQ_1280.jpg"
+  },
+  "Black Russian Terrier": {
+    "temperament": [
+      "Hardy",
+      "Energetic",
+      "Lively",
+      "Confident",
+      "Stable",
+      "Brave"
+    ],
+    "bred_for": "Military/working dogs in the USSR.",
+    "life_span": "10 - 11 years",
+    "image": "/static/breeds/black-russian-terrier.jpg"
+  },
+  "Bloodhound": {
+    "temperament": [
+      "Stubborn",
+      "Affectionate",
+      "Gentle",
+      "Even Tempered"
+    ],
+    "bred_for": "Trailing",
+    "life_span": "8 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/Skdcgx9VX_1280.jpg"
+  },
+  "Blue Picardy Spaniel": {
+    "temperament": [
+      "Playful",
+      "Gentle",
+      "Adaptable",
+      "Active",
+      "Protective",
+      "Calm"
+    ],
+    "bred_for": "Ability to locate and retrieve game in harsh and adverse terrain and conditions",
+    "life_span": "9 - 13 years",
+    "image": "/static/breeds/blue-picardy-spaniel.jpg"
+  },
+  "Bluetick Coonhound": {
+    "temperament": [
+      "Friendly",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Hunting with a superior sense of smell.",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/rJxieg9VQ_1280.jpg"
+  },
+  "Boerboel": {
+    "temperament": [
+      "Obedient",
+      "Confident",
+      "Intelligent",
+      "Dominant",
+      "Territorial"
+    ],
+    "bred_for": "Guarding the homestead, farm work.",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/HyOjge5Vm_1280.jpg"
+  },
+  "Bolognese": {
+    "temperament": [
+      "Docile",
+      "Enterprising",
+      "Loyal",
+      "Reserved",
+      "Serious"
+    ],
+    "bred_for": "Companion",
+    "life_span": "13 - 15 years",
+    "image": "https://www.dogbreedslist.info/uploads/allimg/dog-pictures/Bolognese-dog-2.jpg"
+  },
+  "Border Collie": {
+    "temperament": [
+      "Tenacious",
+      "Keen",
+      "Energetic",
+      "Responsive",
+      "Alert",
+      "Intelligent"
+    ],
+    "bred_for": "Sheep herder",
+    "life_span": "12 - 16 years",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rough_Collie_600.jpg"
+  },
+  "Border Terrier": {
+    "temperament": [
+      "Fearless",
+      "Affectionate",
+      "Alert",
+      "Obedient",
+      "Intelligent",
+      "Even Tempered"
+    ],
+    "bred_for": "Fox bolting, ratting",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/HJOpge9Em_1280.jpg"
+  },
+  "Borzoi": {
+    "temperament": [
+      "Respectful",
+      "Independent",
+      "Athletic",
+      "Gentle",
+      "Intelligent",
+      "Quiet"
+    ],
+    "bred_for": "Coursing wolves",
+    "life_span": "10 - 13 years",
+    "image": "https://img.dog-learn.com/dog-breeds/borzoi/borzoi-sz6.jpg"
+  },
+  "Boston Terrier": {
+    "temperament": [
+      "Friendly",
+      "Lively",
+      "Intelligent"
+    ],
+    "bred_for": "Ratting, Companionship",
+    "life_span": "11 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/rkZRggqVX_1280.jpg"
+  },
+  "Bouvier des Flandres": {
+    "temperament": [
+      "Protective",
+      "Loyal",
+      "Gentle",
+      "Intelligent",
+      "Familial",
+      "Rational"
+    ],
+    "bred_for": "Cattle herding",
+    "life_span": "10 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/Byd0xl5VX_1280.jpg"
+  },
+  "Boxer": {
+    "temperament": [
+      "Devoted",
+      "Fearless",
+      "Friendly",
+      "Cheerful",
+      "Energetic",
+      "Loyal",
+      "Playful",
+      "Confident",
+      "Intelligent",
+      "Bright",
+      "Brave",
+      "Calm"
+    ],
+    "bred_for": "Bull-baiting, guardian",
+    "life_span": "8 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/ry1kWe5VQ_1280.jpg"
+  },
+  "Boykin Spaniel": {
+    "temperament": [
+      "Friendly",
+      "Energetic",
+      "Companionable",
+      "Intelligent",
+      "Eager",
+      "Trainable"
+    ],
+    "bred_for": "Turkey retrieving",
+    "life_span": "10 - 14 years",
+    "image": "/static/breeds/boykin-spaniel.jpg"
+  },
+  "Bracco Italiano": {
+    "temperament": [
+      "Stubborn",
+      "Affectionate",
+      "Loyal",
+      "Playful",
+      "Companionable",
+      "Trainable"
+    ],
+    "bred_for": "Versatile gun dog",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/S13yZg5VQ_1280.jpg"
+  },
+  "Briard": {
+    "temperament": [
+      "Fearless",
+      "Loyal",
+      "Obedient",
+      "Intelligent",
+      "Faithful",
+      "Protective"
+    ],
+    "bred_for": "Herding, guarding sheep",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/rkVlblcEQ_1280.jpg"
+  },
+  "Brittany": {
+    "temperament": [
+      "Agile",
+      "Adaptable",
+      "Quick",
+      "Intelligent",
+      "Attentive",
+      "Happy"
+    ],
+    "bred_for": "Pointing, Retrieving",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/HJWZZxc4X_1280.jpg"
+  },
+  "Brussels Griffon": {
+    "temperament": [
+      "Self-important",
+      "Inquisitive",
+      "Alert",
+      "Companionable",
+      "Sensitive",
+      "Watchful"
+    ],
+    "bred_for": "Vermin control, Companionship",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/brussels-griffon.jpg"
+  },
+  "Bull Terrier": {
+    "temperament": [
+      "Trainable",
+      "Protective",
+      "Sweet-Tempered",
+      "Keen",
+      "Active"
+    ],
+    "bred_for": "Bull baiting, Fighting",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/-C5P1HCK4.jpg"
+  },
+  "Bull Terrier (Miniature)": {
+    "temperament": [
+      "Trainable",
+      "Protective",
+      "Sweet-Tempered",
+      "Keen",
+      "Active",
+      "Territorial"
+    ],
+    "bred_for": "An elegant man's fashion statement",
+    "life_span": "11 – 14 years",
+    "image": "https://cdn2.thedogapi.com/images/BkKZWlcVX_1280.jpg"
+  },
+  "Bulldog": {
+    "temperament": [
+      "Gregarious",
+      "Docile",
+      "Willful",
+      "Friendly"
+    ],
+    "bred_for": "Bull baiting",
+    "life_span": "8 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/HJGzbx9Nm_1280.jpg"
+  },
+  "Bullmastiff": {
+    "temperament": [
+      "Docile",
+      "Reliable",
+      "Devoted",
+      "Alert",
+      "Loyal",
+      "Reserved",
+      "Loving",
+      "Protective",
+      "Powerful",
+      "Calm",
+      "Courageous"
+    ],
+    "bred_for": "Estate guardian",
+    "life_span": "8 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/r1ifZl5E7_1280.jpg"
+  },
+  "Cairn Terrier": {
+    "temperament": [
+      "Hardy",
+      "Fearless",
+      "Assertive",
+      "Gay",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Bolting of otter, foxes, other vermin",
+    "life_span": "14 - 15 years",
+    "image": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/cairn-terrier-detail.jpg?bust=1535565423&width=355"
+  },
+  "Canaan Dog": {
+    "temperament": [
+      "Cautious",
+      "Devoted",
+      "Alert",
+      "Quick",
+      "Intelligent",
+      "Vigilant"
+    ],
+    "bred_for": "Guarding flocks and encampments",
+    "life_span": "12 - 14 years",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/CanaanDogChakede.jpg"
+  },
+  "Cane Corso": {
+    "temperament": [
+      "Trainable",
+      "Reserved",
+      "Stable",
+      "Quiet",
+      "Even Tempered",
+      "Calm"
+    ],
+    "bred_for": "Companion, guard dog, and hunter",
+    "life_span": "10 - 11 years",
+    "image": "https://cdn2.thedogapi.com/images/r15m-lc4m_1280.jpg"
+  },
+  "Cardigan Welsh Corgi": {
+    "temperament": [
+      "Affectionate",
+      "Devoted",
+      "Alert",
+      "Companionable",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Cattle droving",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/SyXN-e9NX_1280.jpg"
+  },
+  "Catahoula Leopard Dog": {
+    "temperament": [
+      "Energetic",
+      "Inquisitive",
+      "Independent",
+      "Gentle",
+      "Intelligent",
+      "Loving"
+    ],
+    "bred_for": "Driving livestock",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/BJcNbec4X_1280.jpg"
+  },
+  "Caucasian Shepherd (Ovcharka)": {
+    "temperament": [
+      "Alert",
+      "Quick",
+      "Dominant",
+      "Powerful",
+      "Calm",
+      "Strong"
+    ],
+    "bred_for": "Guard dogs, defending sheep from predators, mainly wolves, jackals and bears",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/r1rrWe5Em_1280.jpg"
+  },
+  "Cavalier King Charles Spaniel": {
+    "temperament": [
+      "Fearless",
+      "Affectionate",
+      "Sociable",
+      "Patient",
+      "Playful",
+      "Adaptable"
+    ],
+    "bred_for": "Flushing small birds, companion",
+    "life_span": "10 - 14 years",
+    "image": "https://vetstreet.brightspotcdn.com/dims4/default/a24e809/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F98%2F2641a09e9311e0a2380050568d634f%2Ffile%2FCavalier-2-645mk062111.jpg"
+  },
+  "Cavapom": {
+    "temperament": [
+      "Obedient",
+      "Good-natured",
+      "Friendly",
+      "Sociable"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "10 - 12 years",
+    "image": "https://images.puppyfinder.com/AdInfoRgArc/e/9/0/e9060f7357a109b7_58577700_3851x2924.jpg"
+  },
+  "Cavapoo": {
+    "temperament": [
+      "Good-natured",
+      "Friendly",
+      "Affectionate",
+      "Sociable",
+      "Loyal",
+      "Playful"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "10 - 15 years",
+    "image": "https://i.pinimg.com/736x/50/a3/1a/50a31a1bdb29083fb352e4e0c083225e.jpg"
+  },
+  "Cesky Terrier": {
+    "temperament": [
+      "Cheerful",
+      "Reserved",
+      "Quiet",
+      "Trainable",
+      "Calm",
+      "Nonaggressive"
+    ],
+    "bred_for": "Hunting in the forests of Bohemia",
+    "life_span": "10 - 15 years",
+    "image": "https://cdn1-www.dogtime.com/assets/uploads/gallery/cesky-terrier-dog-breed-pictures/right-4.jpg"
+  },
+  "Chart Polski": {
+    "temperament": [
+      "Reserved",
+      "Confident",
+      "Self-assured",
+      "Brave"
+    ],
+    "bred_for": "Hunting roe deer, hares, wolves, and bustards.",
+    "life_span": "10 - 13 years",
+    "image": "https://vetstreet.brightspotcdn.com/dims4/default/c5aeb1d/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F18%2F62d890a7e711e0a0d50050568d634f%2Ffile%2FChart-Polski-4-645mk070111.jpg"
+  },
+  "Chesapeake Bay Retriever": {
+    "temperament": [
+      "Affectionate",
+      "Intelligent",
+      "Quiet",
+      "Dominant",
+      "Happy",
+      "Protective"
+    ],
+    "bred_for": "Water Retriever",
+    "life_span": "10 - 13 years",
+    "image": "https://vetstreet-brightspot.s3.amazonaws.com/a6/8e31c09e9411e0a2380050568d634f/file/Chesapeake-Bay-Retriever-5-645mk062111.jpg"
+  },
+  "Chihuahua": {
+    "temperament": [
+      "Devoted",
+      "Lively",
+      "Alert",
+      "Quick",
+      "Courageous"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "12 - 20 years",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chihuahua1_bvdb.jpg"
+  },
+  "Chinese Crested": {
+    "temperament": [
+      "Affectionate",
+      "Sweet-Tempered",
+      "Lively",
+      "Alert",
+      "Playful",
+      "Happy"
+    ],
+    "bred_for": "Ratting, lapdog, curio",
+    "life_span": "10 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/B1pDZx9Nm_1280.jpg"
+  },
+  "Chinese Shar-Pei": {
+    "temperament": [
+      "Suspicious",
+      "Affectionate",
+      "Devoted",
+      "Reserved",
+      "Independent",
+      "Loving"
+    ],
+    "bred_for": "Fighting",
+    "life_span": "10 years",
+    "image": "https://cdn2.thedogapi.com/images/B1ruWl94Q_1280.jpg"
+  },
+  "Chinook": {
+    "temperament": [
+      "Friendly",
+      "Alert",
+      "Dignified",
+      "Intelligent",
+      "Calm"
+    ],
+    "bred_for": "Sled pulling",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/Sypubg54Q_1280.jpg"
+  },
+  "Chow Chow": {
+    "temperament": [
+      "Aloof",
+      "Loyal",
+      "Independent",
+      "Quiet"
+    ],
+    "bred_for": "Guardian, cart pulling, hunting",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/ry8KWgqEQ_1280.jpg"
+  },
+  "Chug": {
+    "temperament": [
+      "Playful",
+      "Loyal",
+      "Affectionate",
+      "Loving"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "10 - 13 years",
+    "image": "https://vetstreet-brightspot.s3.amazonaws.com/c7/54/abfe80434788b769d0a5844bbd26/chug-puppy-alamy-exwm5a-645-x-380.jpg"
+  },
+  "Cirneco dell'Etna": {
+    "temperament": [
+      "Affectionate",
+      "Gentle"
+    ],
+    "bred_for": "Hunting rabbits",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/cirneco-dell-etna.jpg"
+  },
+  "Clumber Spaniel": {
+    "temperament": [
+      "Affectionate",
+      "Loyal",
+      "Dignified",
+      "Gentle",
+      "Calm",
+      "Great-hearted"
+    ],
+    "bred_for": "Bird flushing, Retrieving",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/rkeqWgq4Q_1280.jpg"
+  },
+  "Cockapoo": {
+    "temperament": [
+      "Outgoing",
+      "Friendly",
+      "Intelligent",
+      "Loving",
+      "Active"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "14 - 18 years",
+    "image": "https://cdn2-www.dogtime.com/assets/uploads/2011/01/file_23218_cockapoo-dog-breed.jpg"
+  },
+  "Cocker Spaniel": {
+    "temperament": [
+      "Trainable",
+      "Friendly",
+      "Affectionate",
+      "Playful",
+      "Quiet",
+      "Faithful"
+    ],
+    "bred_for": "Bird flushing, Retrieving",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/cocker-spaniel.jpg"
+  },
+  "Cocker Spaniel (American)": {
+    "temperament": [
+      "Outgoing",
+      "Sociable",
+      "Trusting",
+      "Joyful",
+      "Even Tempered",
+      "Merry"
+    ],
+    "bred_for": "Hunting the American woodcock",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/HkRcZe547_1280.jpg"
+  },
+  "Collie": {
+    "temperament": [
+      "Friendly",
+      "Loyal",
+      "Gentle",
+      "Intelligent",
+      "Active",
+      "Protective"
+    ],
+    "bred_for": "Sheep herding",
+    "life_span": "10 - 14 years",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rough_Collie_600.jpg"
+  },
+  "Coton de Tulear": {
+    "temperament": [
+      "Affectionate",
+      "Lively",
+      "Playful",
+      "Intelligent",
+      "Trainable",
+      "Vocal"
+    ],
+    "bred_for": "Accompanying ladies on long sea voyages, ratters onboard ship.",
+    "life_span": "13 - 16 years",
+    "image": "https://cdn2.thedogapi.com/images/SyviZlqNm_1280.jpg"
+  },
+  "Curly-Coated Retriever": {
+    "temperament": [
+      "Clever",
+      "Lively",
+      "Independent",
+      "Sensitive",
+      "Intelligent",
+      "Trainable"
+    ],
+    "bred_for": "Water retrieving",
+    "life_span": "10 - 15 years",
+    "image": "/static/breeds/curly-coated-retriever.jpg"
+  },
+  "Dachshund": {
+    "temperament": [
+      "Clever",
+      "Stubborn",
+      "Devoted",
+      "Lively",
+      "Playful",
+      "Courageous"
+    ],
+    "bred_for": "Rabbit hunting",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/dachshund.jpg"
+  },
+  "Dalmatian": {
+    "temperament": [
+      "Outgoing",
+      "Friendly",
+      "Energetic",
+      "Playful",
+      "Sensitive",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Carriage dog - trot alongside carriages to protect the occupants from banditry or other interference",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/SkJ3blcN7_1280.jpg"
+  },
+  "Dandie Dinmont Terrier": {
+    "temperament": [
+      "Affectionate",
+      "Lively",
+      "Independent",
+      "Companionable",
+      "Determined",
+      "Fun-loving"
+    ],
+    "bred_for": "Otter, Badger hunting",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/dandie-dinmont-terrier.jpg"
+  },
+  "Doberman Pinscher": {
+    "temperament": [
+      "Fearless",
+      "Energetic",
+      "Alert",
+      "Loyal",
+      "Obedient",
+      "Confident",
+      "Intelligent"
+    ],
+    "bred_for": "Guardian",
+    "life_span": "10 years",
+    "image": "https://cdn2.thedogapi.com/images/HyL3bl94Q_1280.jpg"
+  },
+  "Dogo Argentino": {
+    "temperament": [
+      "Friendly",
+      "Affectionate",
+      "Cheerful",
+      "Loyal",
+      "Tolerant",
+      "Protective"
+    ],
+    "bred_for": "Big-game hunting",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/S1nhWx94Q_1280.jpg"
+  },
+  "Dogue de Bordeaux": {
+    "temperament": [
+      "Devoted",
+      "Loyal",
+      "Companionable",
+      "Vigilant",
+      "Even Tempered",
+      "Courageous"
+    ],
+    "bred_for": "Hunting, Guarding, Fighting against bears, wolves and other dogs",
+    "life_span": "5 - 10 years",
+    "image": "/static/breeds/dogue-de-bordeaux.jpg"
+  },
+  "Doxiepoo": {
+    "temperament": [
+      "Affectionate",
+      "Intelligent",
+      "Playful"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "10 - 15 years",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9Ijg_oDgn7BEdoCyt0KVrDEZsaqPHSsPF6Q&usqp=CAU"
+  },
+  "Dutch Shepherd": {
+    "temperament": [
+      "Reliable",
+      "Affectionate",
+      "Alert",
+      "Loyal",
+      "Obedient",
+      "Trainable"
+    ],
+    "bred_for": "Farms, watchdog, guard duty",
+    "life_span": "15 years",
+    "image": "https://cdn2.thedogapi.com/images/BkE6Wg5E7_1280.jpg"
+  },
+  "English Cocker Spaniel": {
+    "temperament": [
+      "Trainable",
+      "Friendly",
+      "Affectionate",
+      "Playful",
+      "Quiet",
+      "Faithful"
+    ],
+    "bred_for": "Bird flushing, Retrieving",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/cocker-spaniel.jpg"
+  },
+  "English Foxhound": {
+    "temperament": [
+      "Friendly",
+      "Sociable",
+      "Companionable",
+      "Gentle",
+      "Tolerant",
+      "Active"
+    ],
+    "bred_for": "Trailing fox",
+    "life_span": "10 - 13 years",
+    "image": "/static/breeds/english-foxhound.jpg"
+  },
+  "English Setter": {
+    "temperament": [
+      "Strong Willed",
+      "Mischievous",
+      "Affectionate",
+      "Energetic",
+      "Playful",
+      "Companionable",
+      "Gentle",
+      "Hard-working",
+      "Intelligent",
+      "Eager",
+      "People-Oriented"
+    ],
+    "bred_for": "Bird setting, Retrieving",
+    "life_span": "12 years",
+    "image": "https://cdn2.thedogapi.com/images/By4A-eqVX_1280.jpg"
+  },
+  "English Shepherd": {
+    "temperament": [
+      "Kind",
+      "Energetic",
+      "Independent",
+      "Adaptable",
+      "Intelligent",
+      "Bossy"
+    ],
+    "bred_for": "Herding & guarding livestock, farm watch dog",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/H1QyMe5EQ_1280.jpg"
+  },
+  "English Springer Spaniel": {
+    "temperament": [
+      "Affectionate",
+      "Cheerful",
+      "Alert",
+      "Intelligent",
+      "Attentive",
+      "Active"
+    ],
+    "bred_for": "Bird flushing, Retrieving",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/Hk0Jfe5VQ_1280.jpg"
+  },
+  "English Toy Spaniel": {
+    "temperament": [
+      "Affectionate",
+      "Reserved",
+      "Playful",
+      "Gentle",
+      "Happy",
+      "Loving"
+    ],
+    "bred_for": "Companion of kings",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/SkIgzxqNQ_1280.jpg"
+  },
+  "English Toy Terrier": {
+    "temperament": [
+      "Stubborn",
+      "Alert",
+      "Companionable",
+      "Intelligent",
+      "Cunning",
+      "Trainable"
+    ],
+    "bred_for": "Rat-baiting",
+    "life_span": "12 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/SJ6eMxqEQ_1280.jpg"
+  },
+  "Entlebucher Mountain Dog": {
+    "temperament": [
+      "Self-confidence",
+      "Devoted",
+      "Agile",
+      "Loyal",
+      "Independent",
+      "Intelligent"
+    ],
+    "bred_for": "Herding cattle and working alongside larger breeds that guarded the livestock.",
+    "life_span": "10 - 13 years",
+    "image": "/static/breeds/entlebucher-mountain-dog.jpg"
+  },
+  "Eurasier": {
+    "temperament": [
+      "Alert",
+      "Reserved",
+      "Intelligent",
+      "Even Tempered",
+      "Watchful",
+      "Calm"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/S1VWGx9Nm_1280.jpg"
+  },
+  "Field Spaniel": {
+    "temperament": [
+      "Docile",
+      "Cautious",
+      "Sociable",
+      "Sensitive",
+      "Adaptable",
+      "Familial"
+    ],
+    "bred_for": "Bird flushing, Retrieving",
+    "life_span": "11 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/SkJfGecE7_1280.jpg"
+  },
+  "Fila Brasileiro": {
+    "temperament": [
+      "Docile",
+      "Loyal",
+      "Obedient",
+      "Determined",
+      "Brave",
+      "Courageous"
+    ],
+    "bred_for": "Tracking, herding and controlling livestock and large game",
+    "life_span": "10 - 12 years",
+    "image": "/static/breeds/fila-brasileiro.jpg"
+  },
+  "Finnish Lapphund": {
+    "temperament": [
+      "Friendly",
+      "Keen",
+      "Faithful",
+      "Calm",
+      "Courageous"
+    ],
+    "bred_for": "Herding reindeer",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/S1KMGg5Vm_1280.jpg"
+  },
+  "Finnish Spitz": {
+    "temperament": [
+      "Playful",
+      "Loyal",
+      "Independent",
+      "Intelligent",
+      "Happy",
+      "Vocal"
+    ],
+    "bred_for": "Hunting birds, small mammals",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn.akc.org/content/hero/finnish_spitz_header.jpg"
+  },
+  "Flat-Coated Retriever": {
+    "temperament": [
+      "Outgoing",
+      "Friendly",
+      "Devoted",
+      "Optimistic",
+      "Confident"
+    ],
+    "bred_for": "Water retrieving",
+    "life_span": "10 - 13 years",
+    "image": "/static/breeds/flat-coated-retriever.jpg"
+  },
+  "French Bulldog": {
+    "temperament": [
+      "Playful",
+      "Affectionate",
+      "Keen",
+      "Sociable",
+      "Lively",
+      "Alert",
+      "Easygoing",
+      "Patient",
+      "Athletic",
+      "Bright"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "9 - 11 years",
+    "image": "https://cdn2.thedogapi.com/images/HyWNfxc47_1280.jpg"
+  },
+  "German Pinscher": {
+    "temperament": [
+      "Spirited",
+      "Lively",
+      "Intelligent",
+      "Loving",
+      "Even Tempered",
+      "Familial"
+    ],
+    "bred_for": "Watchdog, Hunting vermin on the farm.",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/B1u4zgqE7_1280.jpg"
+  },
+  "German Shepherd Dog": {
+    "temperament": [
+      "Alert",
+      "Loyal",
+      "Obedient",
+      "Curious",
+      "Confident",
+      "Intelligent",
+      "Watchful",
+      "Courageous"
+    ],
+    "bred_for": "Herding, Guard dog",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/SJyBfg5NX_1280.jpg"
+  },
+  "German Shorthaired Pointer": {
+    "temperament": [
+      "Boisterous",
+      "Bold",
+      "Affectionate",
+      "Intelligent",
+      "Cooperative",
+      "Trainable"
+    ],
+    "bred_for": "General hunting",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/SJqBMg5Nm_1280.jpg"
+  },
+  "German Spitz": {
+    "temperament": [
+      "Devoted",
+      "Lively",
+      "Attentive",
+      "Trainable",
+      "Robust"
+    ],
+    "bred_for": "Companionship, Watchdog",
+    "life_span": "14 - 16 years",
+    "image": "https://i.pinimg.com/originals/56/f0/79/56f079fe6da5476a193e8967c5e00241.jpg"
+  },
+  "German Wirehaired Pointer": {
+    "temperament": [
+      "Willful",
+      "Friendly",
+      "Affectionate",
+      "Loyal",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "General hunting, watch dog",
+    "life_span": "14 - 16 years",
+    "image": "/static/breeds/german-wirehaired-pointer.jpg"
+  },
+  "Giant Schnauzer": {
+    "temperament": [
+      "Strong Willed",
+      "Kind",
+      "Loyal",
+      "Intelligent",
+      "Dominant",
+      "Powerful"
+    ],
+    "bred_for": "Herding, guarding",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/H1NIzlcV7_1280.jpg"
+  },
+  "Glen of Imaal Terrier": {
+    "temperament": [
+      "Spirited",
+      "Agile",
+      "Loyal",
+      "Gentle",
+      "Active",
+      "Courageous"
+    ],
+    "bred_for": "Rid the home and farm of vermin, and hunt Badger and fox",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/H1oLMe94m_1280.jpg"
+  },
+  "Golden Retriever": {
+    "temperament": [
+      "Intelligent",
+      "Kind",
+      "Reliable",
+      "Friendly",
+      "Trustworthy",
+      "Confident"
+    ],
+    "bred_for": "Retrieving",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/HJ7Pzg5EQ_1280.jpg"
+  },
+  "Goldendoodle": {
+    "temperament": [
+      "Friendly",
+      "Energetic",
+      "Intelligent",
+      "Trainable"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "10 - 15 years",
+    "image": "/static/breeds/goldendoodle.jpg"
+  },
+  "Gordon Setter": {
+    "temperament": [
+      "Fearless",
+      "Alert",
+      "Loyal",
+      "Confident",
+      "Gay",
+      "Eager"
+    ],
+    "bred_for": "Find and point gamebirds",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/SJ5vzx5NX_1280.jpg"
+  },
+  "Great Dane": {
+    "temperament": [
+      "Friendly",
+      "Devoted",
+      "Reserved",
+      "Gentle",
+      "Confident",
+      "Loving"
+    ],
+    "bred_for": "Hunting & holding boars, Guardian",
+    "life_span": "7 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/B1Edfl9NX_1280.jpg"
+  },
+  "Great Pyrenees": {
+    "temperament": [
+      "Strong Willed",
+      "Fearless",
+      "Affectionate",
+      "Patient",
+      "Gentle",
+      "Confident"
+    ],
+    "bred_for": "Sheep guardian",
+    "life_span": "10 - 12 years",
+    "image": "/static/breeds/great-pyrenees.jpg"
+  },
+  "Greater Swiss Mountain Dog": {
+    "temperament": [
+      "Self-confidence",
+      "Good-natured",
+      "Fearless",
+      "Devoted",
+      "Alert",
+      "Protective"
+    ],
+    "bred_for": "Guarding and herding livestock, pulling carts loaded with milk and cheese",
+    "life_span": "7 - 9 years",
+    "image": "/static/breeds/greater-swiss-mountain-dog.jpg"
+  },
+  "Greyhound": {
+    "temperament": [
+      "Affectionate",
+      "Athletic",
+      "Gentle",
+      "Intelligent",
+      "Quiet",
+      "Even Tempered"
+    ],
+    "bred_for": "Coursing hares",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/ryNYMx94X_1280.jpg"
+  },
+  "Griffon Bruxellois": {
+    "temperament": [
+      "Self-important",
+      "Inquisitive",
+      "Alert",
+      "Companionable",
+      "Sensitive",
+      "Watchful"
+    ],
+    "bred_for": "Hunt and kill vermin in stables",
+    "life_span": "10 – 15 years",
+    "image": "https://cdn2.thedogapi.com/images/ryoYGec4Q_1280.jpg"
+  },
+  "Harrier": {
+    "temperament": [
+      "Outgoing",
+      "Friendly",
+      "Cheerful",
+      "Sweet-Tempered",
+      "Tolerant",
+      "Active"
+    ],
+    "bred_for": "Hunting hares by trailing them",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/B1IcfgqE7_1280.jpg"
+  },
+  "Havanese": {
+    "temperament": [
+      "Affectionate",
+      "Responsive",
+      "Playful",
+      "Companionable",
+      "Gentle",
+      "Intelligent"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "14 - 15 years",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/A_Havanese_judging.jpg"
+  },
+  "Ibizan Hound": {
+    "temperament": [
+      "Stubborn",
+      "Clownish",
+      "Independent",
+      "Intelligent",
+      "Active",
+      "Engaging"
+    ],
+    "bred_for": "Coursing rabbits",
+    "life_span": "11 - 14 years",
+    "image": "/static/breeds/ibizan-hound.jpg"
+  },
+  "Icelandic Sheepdog": {
+    "temperament": [
+      "Hardy",
+      "Cheerful",
+      "Energetic",
+      "Agile",
+      "Inquisitive",
+      "Alert"
+    ],
+    "bred_for": "Herding. Protecting flocks, especially lambs, from birds of prey.",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/icelandic-sheepdog.jpg"
+  },
+  "Irish Red and White Setter": {
+    "temperament": [
+      "Reliable",
+      "Affectionate",
+      "Devoted",
+      "Energetic",
+      "Loyal",
+      "Playful"
+    ],
+    "bred_for": "Hunting birds",
+    "life_span": "11 - 15 years",
+    "image": "/static/breeds/irish-red-and-white-setter.jpg"
+  },
+  "Irish Setter": {
+    "temperament": [
+      "Affectionate",
+      "Energetic",
+      "Lively",
+      "Independent",
+      "Playful",
+      "Companionable"
+    ],
+    "bred_for": "Bird setting, Retrieving",
+    "life_span": "10 - 11 years",
+    "image": "https://cdn2.thedogapi.com/images/S1osGeqVm_1280.jpg"
+  },
+  "Irish Terrier": {
+    "temperament": [
+      "Respectful",
+      "Lively",
+      "Intelligent",
+      "Dominant",
+      "Protective",
+      "Trainable"
+    ],
+    "bred_for": "Watchdog, Vermin dispatcher",
+    "life_span": "12 - 16 years",
+    "image": "https://cdn2.thedogapi.com/images/By-hGecVX_1280.jpg"
+  },
+  "Irish Water Spaniel": {
+    "temperament": [
+      "Clownish",
+      "Inquisitive",
+      "Alert",
+      "Quick",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Water retrieving",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/irish-water-spaniel.jpg"
+  },
+  "Irish Wolfhound": {
+    "temperament": [
+      "Sweet-Tempered",
+      "Loyal",
+      "Dignified",
+      "Patient",
+      "Thoughtful",
+      "Generous"
+    ],
+    "bred_for": "Coursing wolves, elk",
+    "life_span": "6 - 8 years",
+    "image": "https://cdn2.thedogapi.com/images/Hyd2zgcEX_1280.jpg"
+  },
+  "Italian Greyhound": {
+    "temperament": [
+      "Mischievous",
+      "Affectionate",
+      "Agile",
+      "Athletic",
+      "Companionable",
+      "Intelligent"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/SJAnzg9NX_1280.jpg"
+  },
+  "Jack Russell Terrier": {
+    "temperament": [
+      "Bold",
+      "Lively",
+      "Keen",
+      "Fearless",
+      "Alert",
+      "Active"
+    ],
+    "bred_for": "Fox hunting",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/jack-russell-terrier.jpg"
+  },
+  "Japanese Chin": {
+    "temperament": [
+      "Alert",
+      "Loyal",
+      "Independent",
+      "Intelligent",
+      "Loving",
+      "Cat-like"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/r1H6feqEm_1280.jpg"
+  },
+  "Japanese Spitz": {
+    "temperament": [
+      "Affectionate",
+      "Obedient",
+      "Playful",
+      "Companionable",
+      "Intelligent",
+      "Proud"
+    ],
+    "bred_for": "Companion",
+    "life_span": "10 – 16 years",
+    "image": "https://cdn2.thedogapi.com/images/HksaMxqNX_1280.jpg"
+  },
+  "Keeshond": {
+    "temperament": [
+      "Agile",
+      "Obedient",
+      "Playful",
+      "Quick",
+      "Sturdy",
+      "Bright"
+    ],
+    "bred_for": "Barge watchdog",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/S1GAGg9Vm_1280.jpg"
+  },
+  "Kerry Blue Terrier": {
+    "temperament": [
+      "Strong Willed",
+      "Affectionate",
+      "Spirited",
+      "Alert",
+      "Loyal",
+      "Gentle"
+    ],
+    "bred_for": "Working dog, herding cattle and sheep. Hunting small game and birds, killing rodents, and guarding his homestead",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/kerry-blue-terrier.jpg"
+  },
+  "Komondor": {
+    "temperament": [
+      "Steady",
+      "Fearless",
+      "Affectionate",
+      "Independent",
+      "Gentle",
+      "Calm"
+    ],
+    "bred_for": "Sheep guardian",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/Bko0fl547_1280.jpg"
+  },
+  "Kooikerhondje": {
+    "temperament": [
+      "Benevolent",
+      "Agile",
+      "Alert",
+      "Intelligent",
+      "Active",
+      "Territorial"
+    ],
+    "bred_for": "Luring ducks into traps - \"tolling\"",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/ZcMM_Og7i.jpg"
+  },
+  "Kromfohrlander": {
+    "temperament": [
+      "Docile",
+      "Good-natured",
+      "Spirited",
+      "Companionable",
+      "Adaptable",
+      "Trainable"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/kromfohrlander.jpg"
+  },
+  "Kuvasz": {
+    "temperament": [
+      "Clownish",
+      "Loyal",
+      "Patient",
+      "Independent",
+      "Intelligent",
+      "Protective"
+    ],
+    "bred_for": "Guardian, hunting large game",
+    "life_span": "8 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/BykZ7ecVX_1280.jpg"
+  },
+  "Labradoodle": {
+    "temperament": [
+      "Intelligent",
+      "Sociable",
+      "Affectionate",
+      "Friendly"
+    ],
+    "bred_for": "Guide Dogs",
+    "life_span": "10 - 15 years",
+    "image": "/static/breeds/labradoodle.jpg"
+  },
+  "Labrador Retriever": {
+    "temperament": [
+      "Kind",
+      "Outgoing",
+      "Agile",
+      "Gentle",
+      "Intelligent",
+      "Trusting",
+      "Even Tempered"
+    ],
+    "bred_for": "Water retrieving",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/B1uW7l5VX_1280.jpg"
+  },
+  "Lacy Dog": {
+    "temperament": [
+      "Bold",
+      "Devoted",
+      "Alert",
+      "Intelligent",
+      "Active",
+      "Intense"
+    ],
+    "bred_for": "Herding, Hunting, and Ranch work",
+    "life_span": "12 - 16 years",
+    "image": "/static/breeds/lacy-dog.jpg"
+  },
+  "Lagotto Romagnolo": {
+    "temperament": [
+      "Keen",
+      "Loyal",
+      "Companionable",
+      "Loving",
+      "Active",
+      "Trainable"
+    ],
+    "bred_for": "Water retrieval dog in the marshes of Romagna",
+    "life_span": "14 - 16 years",
+    "image": "https://cdn2.thedogapi.com/images/ryzzmgqE7_1280.jpg"
+  },
+  "Lakeland Terrier": {
+    "temperament": [
+      "Friendly",
+      "Bold",
+      "Independent",
+      "Confident",
+      "Intelligent",
+      "Trainable"
+    ],
+    "bred_for": "Hunting Foxes during Lambing Season",
+    "life_span": "12 - 15 years",
+    "image": "https://vetstreet.brightspotcdn.com/dims4/default/8410776/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F33%2F7f4f60a7dc11e0a0d50050568d634f%2Ffile%2FLakeland-Terrier-2-645mk062711.jpg"
+  },
+  "Lancashire Heeler": {
+    "temperament": [
+      "Clever",
+      "Friendly",
+      "Alert",
+      "Intelligent"
+    ],
+    "bred_for": "Cattle herding, Ratting, Driving cattle to market.",
+    "life_span": "12 – 15 years",
+    "image": "https://cdn2.thedogapi.com/images/S1RGml5Em_1280.jpg"
+  },
+  "Large Munsterlander": {
+    "temperament": [
+      "Affectionate",
+      "Lively",
+      "Loyal",
+      "Trustworthy",
+      "Trainable",
+      "Dependable"
+    ],
+    "bred_for": "Hunting, Companionship",
+    "life_span": "11 - 13 years",
+    "image": "/static/breeds/large-munsterlander.jpg"
+  },
+  "Leonberger": {
+    "temperament": [
+      "Obedient",
+      "Fearless",
+      "Loyal",
+      "Companionable",
+      "Adaptable",
+      "Loving"
+    ],
+    "bred_for": "Guardian, appearance.",
+    "life_span": "6 - 8 years",
+    "image": "https://cdn2.thedogapi.com/images/ByrmQlqVm_1280.jpg"
+  },
+  "Lhasa Apso": {
+    "temperament": [
+      "Steady",
+      "Fearless",
+      "Friendly",
+      "Devoted",
+      "Assertive",
+      "Spirited",
+      "Energetic",
+      "Lively",
+      "Alert",
+      "Obedient",
+      "Playful",
+      "Intelligent"
+    ],
+    "bred_for": "Guarding inside the home, companion",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/SJp7Qe5EX_1280.jpg"
+  },
+  "Lhasapoo": {
+    "temperament": [
+      "Steady",
+      "Fearless",
+      "Friendly",
+      "Devoted",
+      "Assertive",
+      "Spirited",
+      "Energetic",
+      "Lively",
+      "Alert",
+      "Obedient",
+      "Playful",
+      "Intelligent"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "12 - 15 years",
+    "image": "https://www.dogbreedplus.com/dog_breeds/images/chi_chon.jpg"
+  },
+  "Longdog": {
+    "temperament": [
+      "Affectionate",
+      "Playful",
+      "Intelligent",
+      "Friendly",
+      "Steady",
+      "Fearless"
+    ],
+    "bred_for": "Pursuing and Catching game",
+    "life_span": "10 - 13 years",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chart_polski_200_LM.jpg/1200px-Chart_polski_200_LM.jpg"
+  },
+  "Lowchen": {
+    "temperament": [
+      "Friendly",
+      "Playful",
+      "Intelligent",
+      "Happy",
+      "Active",
+      "Familial"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "12 - 15 years",
+    "image": "https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/Lowchen.jpg"
+  },
+  "Lurcher": {
+    "temperament": [
+      "Gentle",
+      "Affectionate",
+      "Fun-loving",
+      "Loving",
+      "Loyal",
+      "Obedient"
+    ],
+    "bred_for": "Hunting and Racing",
+    "life_span": "10 - 15 years",
+    "image": "https://www.pets4homes.co.uk/images/breeds/147/large/5013e334198d5c3f086e3b36565fcc61.jpg"
+  },
+  "Maltese": {
+    "temperament": [
+      "Playful",
+      "Docile",
+      "Fearless",
+      "Affectionate",
+      "Sweet-Tempered",
+      "Lively",
+      "Responsive",
+      "Easygoing",
+      "Gentle",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "15 - 18 years",
+    "image": "https://cdn2.thedogapi.com/images/B1SV7gqN7_1280.jpg"
+  },
+  "Maltipoo": {
+    "temperament": [
+      "Fun-loving",
+      "Affectionate",
+      "Charming",
+      "Active",
+      "Lively"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "10 - 15 years",
+    "image": "https://wallpapercave.com/wp/wp2277453.jpg"
+  },
+  "Manchester Terrier": {
+    "temperament": [
+      "Devoted",
+      "Keen",
+      "Alert",
+      "Gay",
+      "Discerning",
+      "Active"
+    ],
+    "bred_for": "Rat killing and Rabbit coursing",
+    "life_span": "14 - 16 years",
+    "image": "/static/breeds/manchester-terrier.jpg"
+  },
+  "Mastiff": {
+    "temperament": [
+      "Good-natured",
+      "Affectionate",
+      "Dignified",
+      "Protective",
+      "Calm",
+      "Courageous"
+    ],
+    "bred_for": "Guardian",
+    "life_span": "8 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/HkAVQl9VX_1280.jpg"
+  },
+  "Miniature American Shepherd": {
+    "temperament": [
+      "Energetic",
+      "Loyal",
+      "Intelligent",
+      "Trainable"
+    ],
+    "bred_for": "Cattle herder",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/BkHHQgcN7_1280.jpg"
+  },
+  "Miniature Bull Terrier": {
+    "temperament": [
+      "Trainable",
+      "Protective",
+      "Sweet-Tempered",
+      "Keen",
+      "Active"
+    ],
+    "bred_for": "Ratting",
+    "life_span": "11 or 12 years",
+    "image": "/static/breeds/miniature-bull-terrier.jpg"
+  },
+  "Miniature Pinscher": {
+    "temperament": [
+      "Clever",
+      "Outgoing",
+      "Friendly",
+      "Energetic",
+      "Responsive",
+      "Playful"
+    ],
+    "bred_for": "Small vermin hunting",
+    "life_span": "15 years",
+    "image": "https://cdn2.thedogapi.com/images/Hy3H7g94X_1280.jpg"
+  },
+  "Miniature Schnauzer": {
+    "temperament": [
+      "Fearless",
+      "Friendly",
+      "Spirited",
+      "Alert",
+      "Obedient",
+      "Intelligent"
+    ],
+    "bred_for": "Ratting",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/SJIUQl9NX_1280.jpg"
+  },
+  "Mudi": {
+    "temperament": [
+      "Keen",
+      "Energetic",
+      "Lively",
+      "Alert",
+      "Intelligent",
+      "Courageous"
+    ],
+    "bred_for": "Watchdog",
+    "life_span": "12 - 14 years",
+    "image": "https://vetstreet.brightspotcdn.com/dims4/default/d245627/2147483647/crop/641x378%2B0%2B26/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fca%2F44%2Fa0728a0647d5a51a526285efac11%2Fmudi-ap-0nbax4-645sm63014.jpg"
+  },
+  "Neapolitan Mastiff": {
+    "temperament": [
+      "Stubborn",
+      "Fearless",
+      "Obedient",
+      "Dominant",
+      "Protective",
+      "Trainable"
+    ],
+    "bred_for": "Guard dog",
+    "life_span": "8 - 10 years",
+    "image": "/static/breeds/neapolitan-mastiff.jpg"
+  },
+  "Newfoundland": {
+    "temperament": [
+      "Sweet-Tempered",
+      "Gentle",
+      "Trainable"
+    ],
+    "bred_for": "All purpose water dog, fishing aid",
+    "life_span": "8 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/Sk4DXl54m_1280.jpg"
+  },
+  "Norfolk Terrier": {
+    "temperament": [
+      "Self-confidence",
+      "Fearless",
+      "Spirited",
+      "Companionable",
+      "Happy",
+      "Lovable"
+    ],
+    "bred_for": "Ratting, fox bolting",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/B1ADQg94X_1280.jpg"
+  },
+  "Norwegian Buhund": {
+    "temperament": [
+      "Friendly",
+      "Energetic",
+      "Agile",
+      "Courageous",
+      "Fun-loving"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/norwegian-buhund.jpg"
+  },
+  "Norwegian Elkhound": {
+    "temperament": [
+      "Strong Willed",
+      "Hardy",
+      "Bold",
+      "Alert",
+      "Loyal",
+      "Playful"
+    ],
+    "bred_for": "Hunting elk",
+    "life_span": "10 - 12 years",
+    "image": "https://farmsafevt.files.wordpress.com/2009/11/350px-norwegian-elkhound.jpg?w=350"
+  },
+  "Norwegian Lundehund": {
+    "temperament": [
+      "Energetic",
+      "Alert",
+      "Loyal",
+      "Protective"
+    ],
+    "bred_for": "Robbing Puffin nests",
+    "life_span": "6 - 8 years",
+    "image": "/static/breeds/norwegian-lundehund.jpg"
+  },
+  "Norwich Terrier": {
+    "temperament": [
+      "Hardy",
+      "Affectionate",
+      "Energetic",
+      "Sensitive",
+      "Intelligent"
+    ],
+    "bred_for": "Ratting, fox bolting",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/BkgKXlqE7_1280.jpg"
+  },
+  "Nova Scotia Duck Tolling Retriever": {
+    "temperament": [
+      "Outgoing",
+      "Alert",
+      "Patient",
+      "Intelligent",
+      "Loving"
+    ],
+    "bred_for": "Luring and Retrieving Waterfowl",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/SyYtQe5V7_1280.jpg"
+  },
+  "Old English Sheepdog": {
+    "temperament": [
+      "Sociable",
+      "Bubbly",
+      "Playful",
+      "Adaptable",
+      "Intelligent",
+      "Loving"
+    ],
+    "bred_for": "Driving sheep, cattle",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/HkZ57lq4m_1280.jpg"
+  },
+  "Olde English Bulldogge": {
+    "temperament": [
+      "Friendly",
+      "Alert",
+      "Confident",
+      "Loving",
+      "Courageous",
+      "Strong"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "9 – 14 years",
+    "image": "https://cdn2.thedogapi.com/images/B1d5me547_1280.jpg"
+  },
+  "Otterhound": {
+    "temperament": [
+      "Boisterous",
+      "Amiable",
+      "Even Tempered"
+    ],
+    "bred_for": "Keen and renowned Stamina",
+    "life_span": "10 - 15 years",
+    "image": "/static/breeds/otterhound.jpg"
+  },
+  "Papillon": {
+    "temperament": [
+      "Hardy",
+      "Friendly",
+      "Energetic",
+      "Alert",
+      "Intelligent",
+      "Happy"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "13 - 17 years",
+    "image": "https://cdn2.thedogapi.com/images/SkJj7e547_1280.jpg"
+  },
+  "Pekeapoo": {
+    "temperament": [
+      "Gentle",
+      "Affectionate",
+      "Playful",
+      "Affectionate",
+      "Defensive"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/pekeapoo.jpg"
+  },
+  "Pekingese": {
+    "temperament": [
+      "Opinionated",
+      "Good-natured",
+      "Stubborn",
+      "Affectionate",
+      "Aggressive",
+      "Intelligent"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "14 - 18 years",
+    "image": "https://cdn2.thedogapi.com/images/ByIiml9Nm_1280.jpg"
+  },
+  "Pembroke Welsh Corgi": {
+    "temperament": [
+      "Tenacious",
+      "Outgoing",
+      "Friendly",
+      "Bold",
+      "Playful",
+      "Protective"
+    ],
+    "bred_for": "Driving stock to market in northern Wales",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/rJ6iQeqEm_1280.jpg"
+  },
+  "Perro de Presa Canario": {
+    "temperament": [
+      "Strong Willed",
+      "Suspicious",
+      "Gentle",
+      "Dominant",
+      "Calm"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/S1V3Qeq4X_1280.jpg"
+  },
+  "Peruvian Inca Orchid": {
+    "temperament": [
+      "Affectionate",
+      "Lively",
+      "Alert",
+      "Noble",
+      "Intelligent",
+      "Protective"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "11 - 12 years",
+    "image": "/static/breeds/peruvian-inca-orchid.jpg"
+  },
+  "Petit Basset Griffon Vendeen": {
+    "temperament": [
+      "Extroverted",
+      "Friendly",
+      "Lively",
+      "Independent",
+      "Happy",
+      "Active"
+    ],
+    "bred_for": "Hunting small game",
+    "life_span": "10 - 14 years",
+    "image": "/static/breeds/petit-basset-griffon-vendeen.jpg"
+  },
+  "Pharaoh Hound": {
+    "temperament": [
+      "Affectionate",
+      "Sociable",
+      "Playful",
+      "Intelligent",
+      "Active",
+      "Trainable"
+    ],
+    "bred_for": "Hunting rabbits",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/Byz6mgqEQ_1280.jpg"
+  },
+  "Plott": {
+    "temperament": [
+      "Bold",
+      "Alert",
+      "Loyal",
+      "Intelligent"
+    ],
+    "bred_for": "Hunting big-game like Boar.",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/B1i67l5VQ_1280.jpg"
+  },
+  "Pointer": {
+    "temperament": [
+      "Even Tempered",
+      "Kind",
+      "Affectionate",
+      "Amiable",
+      "Loyal",
+      "Active"
+    ],
+    "bred_for": "Pointing",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/pointer.jpg"
+  },
+  "Polish Lowland Sheepdog": {
+    "temperament": [
+      "Self-confidence",
+      "Lively",
+      "Agile",
+      "Intelligent",
+      "Even Tempered",
+      "Perceptive"
+    ],
+    "bred_for": "Herding and Guarding",
+    "life_span": "10 - 12 years",
+    "image": "/static/breeds/polish-lowland-sheepdog.jpg"
+  },
+  "Pomapoo": {
+    "temperament": [
+      "Compact",
+      "Affectionate",
+      "Intelligent",
+      "Friendly",
+      "Confident"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "12 - 14 years",
+    "image": "https://i.redd.it/bux6z4p8h9v21.jpg"
+  },
+  "Pomeranian": {
+    "temperament": [
+      "Extroverted",
+      "Friendly",
+      "Sociable",
+      "Playful",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Companion",
+    "life_span": "15 years",
+    "image": "https://cdn2.thedogapi.com/images/HJd0XecNX_1280.jpg"
+  },
+  "Pomsky": {
+    "temperament": [
+      "Cute",
+      "Silly",
+      "Playful",
+      "Affectionate"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "12 - 15 years",
+    "image": "https://www.dogbreedplus.com/dog_breeds/images/White-and-Grey-Pomsky.jpg"
+  },
+  "Poodle": {
+    "temperament": [
+      "Alert",
+      "Intelligent",
+      "Faithful",
+      "Active",
+      "Instinctual",
+      "Trainable"
+    ],
+    "bred_for": "Retrieving through water",
+    "life_span": "14 - 18 years",
+    "image": "/static/breeds/poodle.jpg"
+  },
+  "Poodle (Miniature)": {
+    "temperament": [
+      "Friendly",
+      "Intelligent",
+      "Eager to please"
+    ],
+    "bred_for": "Retrieving water dog",
+    "life_span": "12 – 15 years",
+    "image": "https://cdn2.thedogapi.com/images/Hkxk4ecVX_1280.jpg"
+  },
+  "Poodle (Toy)": {
+    "temperament": [
+      "Playful",
+      "Intelligent",
+      "Friendly",
+      "Affectionate"
+    ],
+    "bred_for": "Retrieving water dog",
+    "life_span": "18 years",
+    "image": "https://vetstreet.brightspotcdn.com/dims4/default/d829039/2147483647/crop/645x380%2B0%2B26/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F28%2F34%2Fe912ab774600984f8e5c4578fcc9%2Ftoy-poodle-ap-vul2oi.jpg"
+  },
+  "Portuguese Podengo": {
+    "temperament": [
+      "Hardy",
+      "Friendly",
+      "Lively",
+      "Companionable",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "10 - 14 years",
+    "image": "/static/breeds/portuguese-podengo.jpg"
+  },
+  "Portuguese Water Dog": {
+    "temperament": [
+      "Quarrelsome",
+      "Docile",
+      "Impetuous",
+      "Obedient",
+      "Intelligent",
+      "Brave"
+    ],
+    "bred_for": "Fishing aid",
+    "life_span": "10 - 14 years",
+    "image": "/static/breeds/portuguese-water-dog.jpg"
+  },
+  "Presa Canario": {
+    "temperament": [
+      "Strong Willed",
+      "Suspicious",
+      "Gentle",
+      "Dominant",
+      "Calm"
+    ],
+    "bred_for": "Working livestock",
+    "life_span": "9 – 11 years",
+    "image": "/static/breeds/presa-canario.jpg"
+  },
+  "Pug": {
+    "temperament": [
+      "Docile",
+      "Clever",
+      "Charming",
+      "Stubborn",
+      "Sociable",
+      "Playful",
+      "Quiet",
+      "Attentive"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/HyJvcl9N7_1280.jpg"
+  },
+  "Pugapoo": {
+    "temperament": [
+      "Affectionate",
+      "Playful",
+      "Intelligent",
+      "Friendly"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "12 - 14 years",
+    "image": "https://vetstreet-brightspot.s3.amazonaws.com/5d/592af0aec511e088ab0050568d634f/file/Pugapoo-1-645km071411.jpg"
+  },
+  "Puggle": {
+    "temperament": [
+      "Affectionate",
+      "Willful",
+      "Sweet-Tempered",
+      "Keen",
+      "Sociable",
+      "Spirited",
+      "Lively",
+      "Loyal",
+      "Playful",
+      "Determined",
+      "Gentle",
+      "Intelligent",
+      "Happy",
+      "Loving",
+      "Watchful",
+      "Brave",
+      "Hunting Instinct"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/puggle.jpg"
+  },
+  "Puli": {
+    "temperament": [
+      "Energetic",
+      "Agile",
+      "Loyal",
+      "Obedient",
+      "Intelligent",
+      "Faithful"
+    ],
+    "bred_for": "Herding",
+    "life_span": "12 - 16 Years years",
+    "image": "https://cdn2.thedogapi.com/images/ryPgVl5N7_1280.jpg"
+  },
+  "Pumi": {
+    "temperament": [
+      "Lively",
+      "Reserved",
+      "Intelligent",
+      "Active",
+      "Protective",
+      "Vocal"
+    ],
+    "bred_for": "Shepherding Cattle and Sheep",
+    "life_span": "13 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/SyRe4xcN7_1280.jpg"
+  },
+  "Pyrenean Shepherd": {
+    "temperament": [
+      "Clever",
+      "Energetic",
+      "Dedicated",
+      "Trainable",
+      "Watchful",
+      "Bossy"
+    ],
+    "bred_for": "Watchdog",
+    "life_span": "12 - 16 years",
+    "image": "https://dogbreedatlas.com/images/dog-breed-photos/pyrenean-shepherd-dog/001/pyrenean-shepherd-dog-1486421502-1.jpg"
+  },
+  "Rat Terrier": {
+    "temperament": [
+      "Affectionate",
+      "Lively",
+      "Inquisitive",
+      "Alert",
+      "Intelligent",
+      "Loving"
+    ],
+    "bred_for": "Farm Dog",
+    "life_span": "12 - 18 years",
+    "image": "https://cdn2.thedogapi.com/images/HkXWNl9E7_1280.jpg"
+  },
+  "Redbone Coonhound": {
+    "temperament": [
+      "Affectionate",
+      "Energetic",
+      "Independent",
+      "Companionable",
+      "Familial",
+      "Unflappable"
+    ],
+    "bred_for": "Hunting raccoon, deer, bear, and cougar.",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/HJMzEl5N7_1280.jpg"
+  },
+  "Rhodesian Ridgeback": {
+    "temperament": [
+      "Strong Willed",
+      "Mischievous",
+      "Loyal",
+      "Dignified",
+      "Sensitive",
+      "Intelligent"
+    ],
+    "bred_for": "Big game hunting, guarding",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/By9zNgqE7_1280.jpg"
+  },
+  "Rottweiler": {
+    "temperament": [
+      "Steady",
+      "Good-natured",
+      "Fearless",
+      "Devoted",
+      "Alert",
+      "Obedient",
+      "Confident",
+      "Self-assured",
+      "Calm",
+      "Courageous"
+    ],
+    "bred_for": "Cattle drover, guardian, draft",
+    "life_span": "8 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/r1xXEgcNX_1280.jpg"
+  },
+  "Russian Toy": {
+    "temperament": [
+      "Affectionate",
+      "Playful",
+      "Intelligent",
+      "Sociable",
+      "Friendly"
+    ],
+    "bred_for": "Service and Therapy",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/HkP7Vxc4Q_1280.jpg"
+  },
+  "Saint Bernard": {
+    "temperament": [
+      "Friendly",
+      "Lively",
+      "Gentle",
+      "Watchful",
+      "Calm"
+    ],
+    "bred_for": "Draft, search, rescue",
+    "life_span": "7 - 10 years",
+    "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/42879920/4/?bust=1548865676&width=720"
+  },
+  "Saluki": {
+    "temperament": [
+      "Aloof",
+      "Reserved",
+      "Intelligent",
+      "Quiet"
+    ],
+    "bred_for": "Coursing gazelle and hare",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/VlVgulZgs.jpg"
+  },
+  "Samoyed": {
+    "temperament": [
+      "Stubborn",
+      "Friendly",
+      "Sociable",
+      "Lively",
+      "Alert",
+      "Playful"
+    ],
+    "bred_for": "Herding reindeer, guardian, draft",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/S1T8Ee9Nm_1280.jpg"
+  },
+  "Schapendoes": {
+    "temperament": [
+      "Friendly",
+      "Lively",
+      "Intelligent",
+      "Attentive",
+      "Watchful",
+      "Courageous"
+    ],
+    "bred_for": "Farm Dog and Sheepherder",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/schapendoes.jpg"
+  },
+  "Schipperke": {
+    "temperament": [
+      "Fearless",
+      "Agile",
+      "Curious",
+      "Independent",
+      "Confident",
+      "Faithful"
+    ],
+    "bred_for": "Barge watchdog",
+    "life_span": "13 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/SyBvVgc47_1280.jpg"
+  },
+  "Schnoodle": {
+    "temperament": [
+      "Strong Willed",
+      "Clever",
+      "Devoted",
+      "Obedient",
+      "Intelligent",
+      "Loving",
+      "Active",
+      "Protective"
+    ],
+    "bred_for": "Lapdog, Therapy Dog, Performance Dog",
+    "life_span": "13 - 17 years",
+    "image": "/static/breeds/schnoodle.jpg"
+  },
+  "Scottish Deerhound": {
+    "temperament": [
+      "Docile",
+      "Friendly",
+      "Dignified",
+      "Gentle"
+    ],
+    "bred_for": "Coursing deer",
+    "life_span": "8 - 10 years",
+    "image": "https://cdn2.thedogapi.com/images/SkNjqx9NQ_1280.jpg"
+  },
+  "Scottish Terrier": {
+    "temperament": [
+      "Feisty",
+      "Alert",
+      "Independent",
+      "Playful",
+      "Quick",
+      "Self-assured"
+    ],
+    "bred_for": "Vermin hunting",
+    "life_span": "11 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/Bklnce5NX_1280.jpg"
+  },
+  "Sealyham Terrier": {
+    "temperament": [
+      "Fearless",
+      "Friendly",
+      "Alert",
+      "Even Tempered",
+      "Calm"
+    ],
+    "bred_for": "Hunting Otters, Foxes and Badgers",
+    "life_span": "14 - 17 years",
+    "image": "/static/breeds/sealyham-terrier.jpg"
+  },
+  "Shetland Sheepdog": {
+    "temperament": [
+      "Affectionate",
+      "Lively",
+      "Responsive",
+      "Alert",
+      "Loyal",
+      "Reserved",
+      "Playful",
+      "Gentle",
+      "Intelligent",
+      "Active",
+      "Trainable",
+      "Strong"
+    ],
+    "bred_for": "Sheep herding",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/rJa29l9E7_1280.jpg"
+  },
+  "Shiba Inu": {
+    "temperament": [
+      "Charming",
+      "Fearless",
+      "Keen",
+      "Alert",
+      "Confident",
+      "Faithful"
+    ],
+    "bred_for": "Hunting in the mountains of Japan, Alert Watchdog",
+    "life_span": "12 - 16 years",
+    "image": "/static/breeds/shiba-inu.jpg"
+  },
+  "Shih Tzu": {
+    "temperament": [
+      "Clever",
+      "Spunky",
+      "Outgoing",
+      "Friendly",
+      "Affectionate",
+      "Lively",
+      "Alert",
+      "Loyal",
+      "Independent",
+      "Playful",
+      "Gentle",
+      "Intelligent",
+      "Happy",
+      "Active",
+      "Courageous"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "10 - 18 years",
+    "image": "https://cdn2.thedogapi.com/images/BkrJjgcV7_1280.jpg"
+  },
+  "Shihpoo": {
+    "temperament": [
+      "Affectionate",
+      "Friendly",
+      "Playful",
+      "Sociable",
+      "Gentle",
+      "Lovable"
+    ],
+    "bred_for": "Companionsip",
+    "life_span": "15 years",
+    "image": "/static/breeds/shihpoo.jpg"
+  },
+  "Shiloh Shepherd": {
+    "temperament": [
+      "Outgoing",
+      "Loyal",
+      "Companionable",
+      "Gentle",
+      "Loving",
+      "Trainable"
+    ],
+    "bred_for": "Swimming, Carrying backpacks, Pulling carts or sleds",
+    "life_span": "9 – 14 years",
+    "image": "https://cdn2.thedogapi.com/images/SJJxjecEX_1280.jpg"
+  },
+  "Siberian Husky": {
+    "temperament": [
+      "Outgoing",
+      "Friendly",
+      "Alert",
+      "Gentle",
+      "Intelligent"
+    ],
+    "bred_for": "Sled pulling",
+    "life_span": "12 years",
+    "image": "https://cdn2.thedogapi.com/images/S17ZilqNm_1280.jpg"
+  },
+  "Silken Windhound": {
+    "temperament": [
+      "Friendly",
+      "Affectionate",
+      "Playful",
+      "Companionable",
+      "Trusting",
+      "Familial"
+    ],
+    "bred_for": "Companionship",
+    "life_span": "14 years",
+    "image": "/static/breeds/silken-windhound.jpg"
+  },
+  "Silky Terrier": {
+    "temperament": [
+      "Friendly",
+      "Responsive",
+      "Inquisitive",
+      "Alert",
+      "Quick",
+      "Joyful"
+    ],
+    "bred_for": "Small vermin hunting, companionship",
+    "life_span": "12 - 15 years",
+    "image": "https://vetstreet.brightspotcdn.com/dims4/default/5c2014d/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Ffc%2Ffaa630a80611e0a0d50050568d634f%2Ffile%2FSilky-Terrier-2-645mk062811.jpg"
+  },
+  "Skye Terrier": {
+    "temperament": [
+      "Fearless",
+      "Friendly",
+      "Loyal",
+      "Gay",
+      "Intelligent",
+      "Good-tempered"
+    ],
+    "bred_for": "Vermin hunting",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/skye-terrier.jpg"
+  },
+  "Sloughi": {
+    "temperament": [
+      "Alert",
+      "Sensitive",
+      "Intelligent",
+      "Faithful"
+    ],
+    "bred_for": "Hunting in Ethiopia, reliable guard dog.",
+    "life_span": "12 - 15 years",
+    "image": "/static/breeds/sloughi.jpg"
+  },
+  "Small Munsterlander Pointer": {
+    "temperament": [
+      "Strong Willed",
+      "Affectionate",
+      "Intelligent",
+      "Attentive",
+      "Happy",
+      "Trainable"
+    ],
+    "bred_for": "Hunting and Water retrieving",
+    "life_span": "12 - 14 years",
+    "image": "/static/breeds/small-munsterlander-pointer.jpg"
+  },
+  "Smooth Fox Terrier": {
+    "temperament": [
+      "Fearless",
+      "Affectionate",
+      "Alert",
+      "Playful",
+      "Intelligent",
+      "Active"
+    ],
+    "bred_for": "Fox bolting",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/Syszjx9Em_1280.jpg"
+  },
+  "Soft Coated Wheaten Terrier": {
+    "temperament": [
+      "Affectionate",
+      "Spirited",
+      "Energetic",
+      "Playful",
+      "Intelligent",
+      "Faithful"
+    ],
+    "bred_for": "Vermin hunting, guarding, all-around farm helper",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/HJHmix5NQ_1280.jpg"
+  },
+  "Spanish Greyhound": {
+    "temperament": [
+      "Affectionate",
+      "Playful",
+      "Intelligent",
+      "Friendly",
+      "Sociable",
+      "Outgoing"
+    ],
+    "bred_for": "Hunting",
+    "life_span": "10 - 13 years",
+    "image": "/static/breeds/spanish-greyhound.jpg"
+  },
+  "Spanish Water Dog": {
+    "temperament": [
+      "Trainable",
+      "Diligent",
+      "Affectionate",
+      "Loyal",
+      "Athletic",
+      "Intelligent"
+    ],
+    "bred_for": "Herding flocks of sheep and goats from one pasture to another",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/HJf4jl9VX_1280.jpg"
+  },
+  "Spinone Italiano": {
+    "temperament": [
+      "Docile",
+      "Friendly",
+      "Affectionate",
+      "Loyal",
+      "Patient",
+      "Gentle"
+    ],
+    "bred_for": "Hunting on foot",
+    "life_span": "10 - 12 years",
+    "image": "https://cdn2.thedogapi.com/images/rk5Eoe5Nm_1280.jpg"
+  },
+  "Sprollie": {
+    "temperament": [
+      "Friendly",
+      "Intelligent",
+      "Playful",
+      "Diligent",
+      "Bold",
+      "Territorial"
+    ],
+    "bred_for": "Farm dog",
+    "life_span": "12 - 16 years",
+    "image": "/static/breeds/sprollie.jpg"
+  },
+  "Staffordshire Bull Terrier": {
+    "temperament": [
+      "Reliable",
+      "Fearless",
+      "Bold",
+      "Affectionate",
+      "Loyal",
+      "Intelligent",
+      "Courageous"
+    ],
+    "bred_for": "Fast fighting dog",
+    "life_span": "12 - 14 years",
+    "image": "https://www.mascotarios.org/wp-content/uploads/2011/04/AmericanStaffordshireTerrier.jpg"
+  },
+  "Standard Schnauzer": {
+    "temperament": [
+      "Trainable",
+      "Good-natured",
+      "Devoted",
+      "Lively",
+      "Playful",
+      "Intelligent"
+    ],
+    "bred_for": "Ratting, guarding",
+    "life_span": "13 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/RvLX2NmBZ.jpg"
+  },
+  "Sussex Spaniel": {
+    "temperament": [
+      "Friendly",
+      "Cheerful",
+      "Devoted",
+      "Sociable",
+      "Companionable",
+      "Calm"
+    ],
+    "bred_for": "Bird Hunting",
+    "life_span": "10 - 15 years",
+    "image": "/static/breeds/sussex-spaniel.jpg"
+  },
+  "Swedish Lapphund": {
+    "temperament": [
+      "Kind",
+      "Affectionate",
+      "Lively",
+      "Alert",
+      "Trainable",
+      "Versatile"
+    ],
+    "bred_for": "Hunting",
+    "life_span": "10 - 13 years",
+    "image": "/static/breeds/swedish-lapphund.jpg"
+  },
+  "Swedish Vallhund": {
+    "temperament": [
+      "Fearless",
+      "Friendly",
+      "Energetic",
+      "Alert",
+      "Intelligent",
+      "Watchful"
+    ],
+    "bred_for": "Farming Dog",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/HJ-Dix94Q_1280.jpg"
+  },
+  "Thai Ridgeback": {
+    "temperament": [
+      "Protective",
+      "Loyal",
+      "Independent",
+      "Intelligent",
+      "Loving",
+      "Familial"
+    ],
+    "bred_for": "Watchdog",
+    "life_span": "10 - 12 years",
+    "image": "https://dogsaholic.com/wp-content/uploads/2018/06/Thai-Ridgeback-standing-on-ground-810x876.jpg"
+  },
+  "Tibetan Mastiff": {
+    "temperament": [
+      "Strong Willed",
+      "Tenacious",
+      "Aloof",
+      "Stubborn",
+      "Intelligent",
+      "Protective"
+    ],
+    "bred_for": "Watchdog",
+    "life_span": "10 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/SkM9sec47_1280.jpg"
+  },
+  "Tibetan Spaniel": {
+    "temperament": [
+      "Willful",
+      "Aloof",
+      "Assertive",
+      "Independent",
+      "Playful",
+      "Intelligent",
+      "Happy"
+    ],
+    "bred_for": "Companionship and Watchdog",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/Hyjcol947_1280.jpg"
+  },
+  "Tibetan Terrier": {
+    "temperament": [
+      "Affectionate",
+      "Energetic",
+      "Amiable",
+      "Reserved",
+      "Gentle",
+      "Sensitive"
+    ],
+    "bred_for": "Good luck charms, mascots, watchdogs, herding dogs, and companions",
+    "life_span": "12 - 15 years",
+    "image": "https://vetstreet.brightspotcdn.com/dims4/default/a06ecad/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fa8%2Fc8%2F0215a25b47a799365aa850b6ffad%2Ftibetan-terrier-6.jpg"
+  },
+  "Tosa Ken": {
+    "temperament": [
+      "Suspicious",
+      "Fearless",
+      "Aggressive",
+      "Sensitive",
+      "Intelligent",
+      "Brave"
+    ],
+    "bred_for": "Fighting Dog",
+    "life_span": "10 - 12 years",
+    "image": "/static/breeds/tosa-ken.jpg"
+  },
+  "Toy Fox Terrier": {
+    "temperament": [
+      "Friendly",
+      "Spirited",
+      "Alert",
+      "Loyal",
+      "Playful",
+      "Intelligent"
+    ],
+    "bred_for": "Hunting of small game",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/B17ase9V7_1280.jpg"
+  },
+  "Treeing Walker Coonhound": {
+    "temperament": [
+      "Clever",
+      "Affectionate",
+      "Confident",
+      "Intelligent",
+      "Loving",
+      "Trainable"
+    ],
+    "bred_for": "Hunting",
+    "life_span": "10 - 13 years",
+    "image": "https://cdn2.thedogapi.com/images/SkRpsgc47_1280.jpg"
+  },
+  "Vizsla": {
+    "temperament": [
+      "Affectionate",
+      "Energetic",
+      "Loyal",
+      "Gentle",
+      "Quiet"
+    ],
+    "bred_for": "Pointing and trailing",
+    "life_span": "10 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/r1o0jx9Em_1280.jpg"
+  },
+  "Volpino Italiano": {
+    "temperament": [
+      "Affectionate",
+      "Lively",
+      "Playful",
+      "Gay",
+      "Active",
+      "Watchful"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "14 - 16 years",
+    "image": "/static/breeds/volpino-italiano.jpg"
+  },
+  "Weimaraner": {
+    "temperament": [
+      "Steady",
+      "Aloof",
+      "Stubborn",
+      "Energetic",
+      "Alert",
+      "Intelligent",
+      "Powerful",
+      "Fast"
+    ],
+    "bred_for": "Large game trailing and versatile gundog",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/SyU12l9V7_1280.jpg"
+  },
+  "Welsh Springer Spaniel": {
+    "temperament": [
+      "Stubborn",
+      "Friendly",
+      "Affectionate",
+      "Loyal",
+      "Playful",
+      "Active"
+    ],
+    "bred_for": "Flushing and retrieving birds",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/BJ1gnx5Vm_1280.jpg"
+  },
+  "Welsh Terrier": {
+    "temperament": [
+      "Friendly",
+      "Spirited",
+      "Alert",
+      "Intelligent"
+    ],
+    "bred_for": "Hunting",
+    "life_span": "10 - 14 years",
+    "image": "https://img.dog-learn.com/dog-breeds/welsh-terrier/welsh-terrier-i1-sz5.jpg"
+  },
+  "West Highland White Terrier": {
+    "temperament": [
+      "Hardy",
+      "Friendly",
+      "Alert",
+      "Independent",
+      "Gay",
+      "Active",
+      "Courageous"
+    ],
+    "bred_for": "Fox, Badger, Vermin hunting",
+    "life_span": "15 - 20 years",
+    "image": "https://cdn2.thedogapi.com/images/Bkdx2g5Em_1280.jpg"
+  },
+  "Whippet": {
+    "temperament": [
+      "Friendly",
+      "Affectionate",
+      "Lively",
+      "Gentle",
+      "Intelligent",
+      "Quiet"
+    ],
+    "bred_for": "Coursing, racing",
+    "life_span": "12 - 15 years",
+    "image": "https://cdn2.thedogapi.com/images/Hyv-ne94m_1280.jpg"
+  },
+  "White Shepherd": {
+    "temperament": [
+      "Self-confidence",
+      "Aloof",
+      "Fearless",
+      "Alert",
+      "Companionable",
+      "Eager"
+    ],
+    "bred_for": "Tracking and Watchdog",
+    "life_span": "12 – 14 years",
+    "image": "https://cdn2.thedogapi.com/images/r14M3e9E7_1280.jpg"
+  },
+  "Wire Fox Terrier": {
+    "temperament": [
+      "Fearless",
+      "Friendly",
+      "Bold",
+      "Keen",
+      "Alert",
+      "Quick"
+    ],
+    "bred_for": "Vermin hunting, fox bolting",
+    "life_span": "13 – 14 years",
+    "image": "https://cdn2.thedogapi.com/images/SJ6f2g9EQ_1280.jpg"
+  },
+  "Wirehaired Pointing Griffon": {
+    "temperament": [
+      "Loyal",
+      "Gentle",
+      "Vigilant",
+      "Trainable",
+      "Proud"
+    ],
+    "bred_for": "Gundog, \"swamp-tromping\", Flushing, pointing, and retrieving water fowl & game birds",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/Bkam2l9Vm_1280.jpg"
+  },
+  "Wirehaired Vizsla": {
+    "temperament": [
+      "Affectionate",
+      "Friendly",
+      "Gentle",
+      "Intelligent",
+      "Playful",
+      "Calm"
+    ],
+    "bred_for": "Hunting",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/r1I4hl5Em_1280.jpg"
+  },
+  "Xoloitzcuintli": {
+    "temperament": [
+      "Cheerful",
+      "Alert",
+      "Companionable",
+      "Intelligent",
+      "Protective",
+      "Calm"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "12 - 14 years",
+    "image": "https://cdn2.thedogapi.com/images/HkNS3gqEm_1280.jpg"
+  },
+  "Yorkipoo": {
+    "temperament": [
+      "Intelligent",
+      "Affectionate",
+      "Playful",
+      "gentle"
+    ],
+    "bred_for": "Lapdog",
+    "life_span": "15 years",
+    "image": "https://vetstreet.brightspotcdn.com/dims4/default/6207fe4/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F64%2F214e60c85311e096760050568d6ceb%2Ffile%2Fyorkipoo-2-FL-645km081611.jpg"
+  },
+  "Yorkshire Terrier": {
+    "temperament": [
+      "Bold",
+      "Independent",
+      "Confident",
+      "Intelligent",
+      "Courageous"
+    ],
+    "bred_for": "Small vermin hunting",
+    "life_span": "12 - 16 years",
+    "image": "https://cdn2.thedogapi.com/images/B12BnxcVQ_1280.jpg"
+  }
+}

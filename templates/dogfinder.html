@@ -80,7 +80,7 @@
 			<h3 style="padding-left: 250px; padding: 30px;">Find A Dog</h3>
 			{% for i, x in dogimages.items() %}
 			<div class="container">
-				<img src={{ x }} style="width:240px; height:200px;"> 
+				<img src="{{ x }}" style="width:240px; height:200px;"> 
 				<a href="/doginfo/{{ i }}">{{ i }}</a>
 			</div>
 			{% endfor %}
@@ -92,7 +92,7 @@
 			<h3 style="padding-left: 1500px; padding: 30px;">Here are your results</h3>
 			{% for i, x in dogresults.items() %}
 			<div class="container">
-					<img src={{ x }} style="width:240px; height:200px;"> 
+					<img src="{{ x }}" style="width:240px; height:200px;"> 
 					<a href="/doginfo/{{ i }}">{{ i }}</a>
 			</div>
 			{% endfor %}
